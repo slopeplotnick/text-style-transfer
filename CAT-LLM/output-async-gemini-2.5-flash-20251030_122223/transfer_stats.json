@@ -1,0 +1,82 @@
+[
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 13.687230587005615
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 44.04307794570923
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 17.53448247909546
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 22.125357627868652
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 53.01840662956238
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 20.285907983779907
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 24.23072838783264
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 19.497981548309326
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 43.16356062889099
+  },
+  {
+    "input_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/transferred/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 18.980480194091797
+  }
+]

@@ -1,0 +1,91 @@
+[05:20:36] Configuration:
+[05:20:36]   - Model: gpt-5-2025-08-07
+[05:20:36]   - Base URL: https://yunwu.zeabur.app/v1
+[05:20:36]   - Encoder: all-mpnet-base-v2
+[05:20:36]   - Style Intensity: 0.7
+[05:20:36]   - Parallel Workers: 10
+[05:20:36]   - Enable Evaluation: True
+[05:20:36]   - Output Directory: /root/rzy/tst/ZeroStylus/outputs/batch_transformed
+[05:20:36] Loading 10 reference texts from /root/datasets/text_style_transfer/ipm_abstracts
+[05:20:36] ✓ Loaded: A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated.txt
+[05:20:36] ✓ Loaded: DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated.txt
+[05:20:36] ✓ Loaded: MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated.txt
+[05:20:36] ✓ Loaded: Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated.txt
+[05:20:36] Total reference texts loaded: 10
+[05:20:36] Loading 10 source texts from /root/datasets/text_style_transfer/ipm_abstracts/style_removed
+[05:20:36] ✓ Loaded: A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt
+[05:20:36] ✓ Loaded: Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt
+[05:20:36] Total source texts loaded: 10
+[05:20:56] ✓ Template extraction completed in 0.63s
+[05:20:56] Template Statistics:
+[05:20:56]   - Sentence templates: 10
+[05:20:56]   - Paragraph templates: 10
+[05:20:56] [Task-1] [1/10] (10.0%) Processing: A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt
+[05:20:56] [Task-2] [2/10] (20.0%) Processing: Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt
+[05:20:56] [Task-3] [3/10] (30.0%) Processing: Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt
+[05:20:56] [Task-4] [4/10] (40.0%) Processing: DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt
+[05:20:57] [Task-5] [5/10] (50.0%) Processing: Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt
+[05:20:57] [Task-6] [6/10] (60.0%) Processing: MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt
+[05:20:57] [Task-7] [7/10] (70.0%) Processing: Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt
+[05:20:57] [Task-8] [8/10] (80.0%) Processing: Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt
+[05:20:57] [Task-9] [9/10] (90.0%) Processing: Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt
+[05:20:57] [Task-10] [10/10] (100.0%) Processing: Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt
+[05:22:02] [Task-10] ✓ Completed in 65.94s - Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt
+[05:22:55] [Task-2] ✓ Completed in 118.83s - Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt
+[05:24:12] [Task-3] ✓ Completed in 195.86s - Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt
+[05:24:23] [Task-8] ✓ Completed in 206.56s - Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt
+[05:24:23] [Task-9] ✓ Completed in 206.61s - Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt
+[05:24:24] [Task-1] ✓ Completed in 207.15s - A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt
+[05:25:08] [Task-5] ✓ Completed in 251.08s - Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt
+[05:25:11] [Task-4] ✓ Completed in 254.01s - DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt
+[05:25:21] [Task-6] ✓ Completed in 264.78s - MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt
+[05:25:49] [Task-7] ✓ Completed in 292.21s - Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt
+[05:25:49] Total files: 10
+[05:25:49]   ✓ Success: 10
+[05:25:49]   ✗ Errors: 0
+[05:25:49] Total processing time: 292.22s
+[05:25:49] Average time per file: 29.22s
+[05:25:54] Evaluating 10 transformed texts...
+[05:25:54] [1/10] (10.0%) Evaluating: Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt
+[05:26:10]   Style: 2.60, Content: 6.46, Quality: 9.00, Average: 6.02
+[05:26:10] [2/10] (20.0%) Evaluating: Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt
+[05:26:18]   Style: 3.61, Content: 6.08, Quality: 9.00, Average: 6.23
+[05:26:18] [3/10] (30.0%) Evaluating: Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt
+[05:26:28]   Style: 2.92, Content: 6.51, Quality: 9.00, Average: 6.14
+[05:26:28] [4/10] (40.0%) Evaluating: Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt
+[05:26:38]   Style: 2.72, Content: 6.78, Quality: 9.00, Average: 6.17
+[05:26:38] [5/10] (50.0%) Evaluating: Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt
+[05:26:46]   Style: 3.37, Content: 5.96, Quality: 9.00, Average: 6.11
+[05:26:46] [6/10] (60.0%) Evaluating: A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt
+[05:27:01]   Style: 2.98, Content: 6.48, Quality: 9.20, Average: 6.22
+[05:27:01] [7/10] (70.0%) Evaluating: Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt
+[05:27:08]   Style: 3.10, Content: 6.32, Quality: 8.00, Average: 5.81
+[05:27:08] [8/10] (80.0%) Evaluating: DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt
+[05:27:18]   Style: 3.42, Content: 6.45, Quality: 9.00, Average: 6.29
+[05:27:18] [9/10] (90.0%) Evaluating: MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt
+[05:27:23]   Style: 3.68, Content: 6.26, Quality: 9.00, Average: 6.31
+[05:27:23] [10/10] (100.0%) Evaluating: Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt
+[05:27:29]   Style: 3.58, Content: 6.60, Quality: 9.00, Average: 6.39
+[05:27:29] Style Consistency:
+[05:27:29]   Mean: 3.20, Std: 0.37, Min: 2.60, Max: 3.68
+[05:27:29] Content Preservation:
+[05:27:29]   Mean: 6.39, Std: 0.23, Min: 5.96, Max: 6.78
+[05:27:29] Expression Quality:
+[05:27:29]   Mean: 8.92, Std: 0.31, Min: 8.00, Max: 9.20
+[05:27:29] Average Score:
+[05:27:29]   Mean: 6.17, Std: 0.16, Min: 5.81, Max: 6.39
+[05:27:29] ✓ Results saved to: outputs/batch_transformed/results_20251110_052729.json

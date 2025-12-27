@@ -1,0 +1,267 @@
+{
+  "timestamp": "2025-11-10T05:27:29.343013",
+  "config": {
+    "model": "gpt-5-2025-08-07",
+    "base_url": "https://yunwu.zeabur.app/v1",
+    "style_intensity": 0.7,
+    "max_workers": 10,
+    "enable_evaluation": true
+  },
+  "template_extraction_time": 0.633319616317749,
+  "processing_time": 292.2164056301117,
+  "total_files": 10,
+  "success_count": 10,
+  "error_count": 0,
+  "transformation_results": [
+    {
+      "filename": "Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_transformed.txt",
+      "elapsed_time": 65.94084048271179,
+      "original_length": 1492,
+      "transformed_length": 1487,
+      "original_text_preview": "This study looks at how urban problem patterns form, change, and what causes them across 87 counties in Zhejiang Province, China.It sorts about 3.5 million public complaints into 37 categories and mea...",
+      "transformed_text_preview": "This study examines the formation, evolution, and drivers of urban problem patterns across 87 counties in Zhejiang Province, China. By classifying approximately 3.5 million public complaints into 37 c..."
+    },
+    {
+      "filename": "Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_transformed.txt",
+      "elapsed_time": 118.83480882644653,
+      "original_length": 1422,
+      "transformed_length": 1582,
+      "original_text_preview": "There’s more and more emergency data from both natural and human-made events on social media, and we need to categorize it in real time across different types of emergencies. But current unsupervised ...",
+      "transformed_text_preview": "The increasing volume of emergency data from both natural and human-made events on social media necessitates effective real-time classification across diverse emergency domains. However, current Unsup..."
+    },
+    {
+      "filename": "Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_transformed.txt",
+      "elapsed_time": 195.86175799369812,
+      "original_length": 1072,
+      "transformed_length": 1329,
+      "original_text_preview": "Human Action Recognition (HAR) matters for things like video surveillance. There are many HAR methods, but they still don’t handle spatial and temporal features well. In this work, we build a HAR mode...",
+      "transformed_text_preview": "Human Action Recognition (HAR) is important for applications such as video surveillance. However, despite the proliferation of HAR methods, their ability to effectively capture spatial features (SF) a..."
+    },
+    {
+      "filename": "Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_transformed.txt",
+      "elapsed_time": 206.5554003715515,
+      "original_length": 1270,
+      "transformed_length": 1666,
+      "original_text_preview": "Understanding how communities form in flow-based mobility networks helps us see how regions connect, but current methods have two main problems: (1) modularity optimization has resolution limits, and ...",
+      "transformed_text_preview": "Understanding how communities form in flow-based mobility networks is essential for analysing regional connectivity; however, existing methods face two main limitations: (1) modularity optimization al..."
+    },
+    {
+      "filename": "Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_transformed.txt",
+      "elapsed_time": 206.6130027770996,
+      "original_length": 1160,
+      "transformed_length": 1620,
+      "original_text_preview": "What streamers say has a big impact on what people buy in live shopping, especially when they share knowledge while promoting products at the same time. Past studies show their talk can affect sales, ...",
+      "transformed_text_preview": "Streamers’ discourse has a substantial impact on consumers’ purchasing decisions in live streaming e-commerce, especially when knowledge sharing occurs concurrently with product promotion. Although pr..."
+    },
+    {
+      "filename": "A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_transformed.txt",
+      "elapsed_time": 207.15160417556763,
+      "original_length": 1334,
+      "transformed_length": 1580,
+      "original_text_preview": "Evaluating policy texts automatically is important in policy informatics. Past methods mostly set variables by hand, so they don’t scale well, and their indicators depend on specific policies, so they...",
+      "transformed_text_preview": "Automated policy text evaluation is important in the field of policy informatics. However, because prior methods predominantly rely on manual variable assignment, they do not scale well; moreover, the..."
+    },
+    {
+      "filename": "Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_transformed.txt",
+      "elapsed_time": 251.08268451690674,
+      "original_length": 1684,
+      "transformed_length": 2153,
+      "original_text_preview": "It’s important to understand how knowledge changes as scientists move through their careers because that helps education and innovation. In this study, we build Knowledge Precedence Networks (KPNs) to...",
+      "transformed_text_preview": "Understanding how knowledge evolves as scientists progress through their careers is important for advancing education and innovation. To this end, Knowledge Precedence Networks (KPNs) are constructed ..."
+    },
+    {
+      "filename": "DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_transformed.txt",
+      "elapsed_time": 254.00720191001892,
+      "original_length": 1247,
+      "transformed_length": 1503,
+      "original_text_preview": "Trust is the basis for secure interactions between network entities, but current trust evaluation models are easy to hit with global attacks, depend on stacking many layers, and struggle with networks...",
+      "transformed_text_preview": "Existing trust evaluation models remain vulnerable to global attacks, depend on multi-layer stacking, and struggle to adapt to dynamic and sparse networks. To address these limitations, a dynamic and ..."
+    },
+    {
+      "filename": "MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_transformed.txt",
+      "elapsed_time": 264.78462409973145,
+      "original_length": 1285,
+      "transformed_length": 1715,
+      "original_text_preview": "Bundle recommendation is an important online service that gives users personalized sets of items they may like. Existing methods try to use multi-view information, but they often don’t make good use o...",
+      "transformed_text_preview": "Bundle recommendation is an important online service that provides users with personalized collections of items in which they may be interested. While existing methods attempt to integrate multi-view ..."
+    },
+    {
+      "filename": "Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt",
+      "status": "success",
+      "output_path": "outputs/batch_transformed/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_transformed.txt",
+      "elapsed_time": 292.2109456062317,
+      "original_length": 1839,
+      "transformed_length": 2134,
+      "original_text_preview": "Lately, more people in research and industry have been working on multi-domain CTR prediction and have made good progress. Even though user behavior is sequential, there isn’t much work on multi-domai...",
+      "transformed_text_preview": "In recent years, researchers and practitioners have increasingly focused on multi-domain CTR prediction and achieved notable progress. However, though users’ behaviors are sequential, little work has ..."
+    }
+  ],
+  "evaluation_results": {
+    "individual_scores": [
+      {
+        "style_consistency": 2.5978413224220276,
+        "content_preservation": 6.4649606317281725,
+        "expression_quality": 9.0,
+        "average_score": 6.020933984716733,
+        "vector": [
+          2.5978413224220276,
+          6.4649606317281725,
+          9.0
+        ],
+        "filename": "Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.614165186882019,
+        "content_preservation": 6.075368955731393,
+        "expression_quality": 9.0,
+        "average_score": 6.229844714204471,
+        "vector": [
+          3.614165186882019,
+          6.075368955731393,
+          9.0
+        ],
+        "filename": "Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 2.9152265191078186,
+        "content_preservation": 6.506435459852218,
+        "expression_quality": 9.0,
+        "average_score": 6.140553992986679,
+        "vector": [
+          2.9152265191078186,
+          6.506435459852218,
+          9.0
+        ],
+        "filename": "Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 2.7244606614112854,
+        "content_preservation": 6.781765568256377,
+        "expression_quality": 9.0,
+        "average_score": 6.168742076555887,
+        "vector": [
+          2.7244606614112854,
+          6.781765568256377,
+          9.0
+        ],
+        "filename": "Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.3695733547210693,
+        "content_preservation": 5.960036179423332,
+        "expression_quality": 9.0,
+        "average_score": 6.109869844714801,
+        "vector": [
+          3.3695733547210693,
+          5.960036179423332,
+          9.0
+        ],
+        "filename": "Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 2.9756662249565125,
+        "content_preservation": 6.483267846703528,
+        "expression_quality": 9.2,
+        "average_score": 6.219644690553348,
+        "vector": [
+          2.9756662249565125,
+          6.483267846703528,
+          9.2
+        ],
+        "filename": "A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.1042522192001343,
+        "content_preservation": 6.317378583550452,
+        "expression_quality": 8.0,
+        "average_score": 5.807210267583528,
+        "vector": [
+          3.1042522192001343,
+          6.317378583550452,
+          8.0
+        ],
+        "filename": "Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.4244784712791443,
+        "content_preservation": 6.453879073262215,
+        "expression_quality": 9.0,
+        "average_score": 6.292785848180453,
+        "vector": [
+          3.4244784712791443,
+          6.453879073262215,
+          9.0
+        ],
+        "filename": "DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.6773458123207092,
+        "content_preservation": 6.261050909757615,
+        "expression_quality": 9.0,
+        "average_score": 6.312798907359441,
+        "vector": [
+          3.6773458123207092,
+          6.261050909757615,
+          9.0
+        ],
+        "filename": "MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt"
+      },
+      {
+        "style_consistency": 3.5764971375465393,
+        "content_preservation": 6.602884167432785,
+        "expression_quality": 9.0,
+        "average_score": 6.393127101659775,
+        "vector": [
+          3.5764971375465393,
+          6.602884167432785,
+          9.0
+        ],
+        "filename": "Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt"
+      }
+    ],
+    "statistics": {
+      "style_consistency": {
+        "mean": 3.197950690984726,
+        "min": 2.5978413224220276,
+        "max": 3.6773458123207092,
+        "std": 0.3673646121051002
+      },
+      "content_preservation": {
+        "mean": 6.390702737569809,
+        "min": 5.960036179423332,
+        "max": 6.781765568256377,
+        "std": 0.23162772927424416
+      },
+      "expression_quality": {
+        "mean": 8.92,
+        "min": 8.0,
+        "max": 9.2,
+        "std": 0.3124099870362661
+      },
+      "average_score": {
+        "mean": 6.169551142851511,
+        "min": 5.807210267583528,
+        "max": 6.393127101659775,
+        "std": 0.1579933284910404
+      }
+    }
+  }
+}

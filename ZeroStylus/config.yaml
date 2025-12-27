@@ -1,0 +1,136 @@
+# ZeroStylus Configuration File
+# This file contains all configurable parameters for the ZeroStylus framework
+
+# ===========================
+# LLM Configuration
+# ===========================
+llm:
+  # OpenAI API Configuration
+  openai:
+    api_key: "YOUR_API_KEY_HERE"
+    base_url: "https://newapi.deepwisdom.ai/v1"
+    model: "gpt-4o"
+    temperature: 0.7
+    max_tokens: null  # null = no limit, use API default (or set a large number like 8000)
+
+  # Anthropic API Configuration (optional)
+  anthropic:
+    api_key: "your-anthropic-api-key-here"
+    model: "claude-3-opus-20240229"  # Options: "claude-3-opus-20240229", "claude-3-sonnet-20240229"
+
+  # DeepSeek API Configuration (optional)
+  deepseek:
+    api_key: "your-deepseek-api-key-here"
+    model: "deepseek-chat"
+
+# ===========================
+# Model Configuration
+# ===========================
+model:
+  # Sentence Transformer Model
+  # Options: "all-MiniLM-L6-v2", "all-mpnet-base-v2", "paraphrase-multilingual-MiniLM-L12-v2"
+  encoder_model: "all-mpnet-base-v2"  # High quality embedding model
+
+# ===========================
+# Phase 1: Template Extraction
+# ===========================
+phase1:
+  # DBSCAN Clustering Parameters
+  dbscan:
+    eps: 0.3  # Epsilon parameter (distance threshold)
+    min_samples: 2  # Minimum samples per cluster
+
+  # Paragraph Template Threshold (ε)
+  # Templates are added only if distance > threshold
+  paragraph_threshold: 0.1
+
+# ===========================
+# Phase 2: Style Transfer
+# ===========================
+phase2:
+  # Style Intensity (α ∈ [0, 1])
+  # 0 = no style transfer, 1 = full style transfer
+  style_intensity: 0.7
+
+  # Maximum chunk length for processing long texts
+  max_chunk_length: 2000
+
+# ===========================
+# Evaluation Configuration
+# ===========================
+evaluation:
+  # Use BLEURT for content evaluation (requires installation)
+  use_bleurt: true
+
+  # Number of keywords to extract for evaluation
+  keyword_top_k: 20
+
+  # Content preservation weights
+  content_weights:
+    bleurt: 0.6  # Weight for BLEURT/semantic similarity
+    keyword: 0.4  # Weight for keyword retention
+
+  # Quality evaluation weights
+  quality_weights:
+    length_variation: 0.3  # Weight for sentence length variation
+    vocabulary_diversity: 0.4  # Weight for vocabulary diversity
+    readability: 0.3  # Weight for readability
+
+# ===========================
+# Data Paths
+# ===========================
+paths:
+  # Directory containing reference texts (for template extraction)
+  reference_texts_dir: "/root/datasets/text_style_transfer/ipm_abstracts"
+
+  # Directory containing source texts to transform
+  source_texts_dir: "/root/datasets/text_style_transfer/ipm_abstracts/style_removed"
+
+  # Directory for output files
+  output_dir: "outputs/"
+
+  # Directory for batch transformed outputs
+  batch_output_dir: "outputs/batch_transformed"
+
+  # Directory for evaluation results
+  evaluation_dir: "evaluation_results/"
+
+# ===========================
+# Logging Configuration
+# ===========================
+logging:
+  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  level: "INFO"
+
+  # Log file path
+  file: "zerostylus.log"
+
+# ===========================
+# Advanced Options
+# ===========================
+advanced:
+  # Number of template examples to display
+  num_template_examples: 5
+
+  # Cache embeddings for faster processing
+  cache_embeddings: true
+
+  # Embedding cache directory
+  embedding_cache_dir: ".embedding_cache/"
+
+  # Parallel processing for batch evaluation
+  use_parallel_processing: true
+  num_workers: 10
+
+# ===========================
+# Experimental Features
+# ===========================
+experimental:
+  # Use hierarchical paragraph encoding
+  use_hierarchical_encoding: true
+
+  # Dynamic template update during generation
+  dynamic_template_update: false
+
+  # Template diversity threshold
+  template_diversity_threshold: 0.15

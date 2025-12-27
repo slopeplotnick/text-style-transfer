@@ -1,0 +1,3002 @@
+[
+  {
+    "file": "src_0000.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0000.txt",
+    "processing_time": 43.705708026885986
+  },
+  {
+    "file": "src_0001.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0001.txt",
+    "processing_time": 43.70493268966675
+  },
+  {
+    "file": "src_0002.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0002.txt",
+    "processing_time": 43.70391035079956
+  },
+  {
+    "file": "src_0003.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0003.txt",
+    "processing_time": 43.70460104942322
+  },
+  {
+    "file": "src_0004.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0004.txt",
+    "processing_time": 41.11240530014038
+  },
+  {
+    "file": "src_0005.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0005.txt",
+    "processing_time": 43.70425295829773
+  },
+  {
+    "file": "src_0006.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0006.txt",
+    "processing_time": 73.51029682159424
+  },
+  {
+    "file": "src_0007.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0007.txt",
+    "processing_time": 65.5848376750946
+  },
+  {
+    "file": "src_0008.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0008.txt",
+    "processing_time": 43.70387601852417
+  },
+  {
+    "file": "src_0009.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0009.txt",
+    "processing_time": 43.70390748977661
+  },
+  {
+    "file": "src_0010.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0010.txt",
+    "processing_time": 51.29720664024353
+  },
+  {
+    "file": "src_0011.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0011.txt",
+    "processing_time": 48.70598077774048
+  },
+  {
+    "file": "src_0012.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0012.txt",
+    "processing_time": 43.27757167816162
+  },
+  {
+    "file": "src_0013.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0013.txt",
+    "processing_time": 48.7054967880249
+  },
+  {
+    "file": "src_0014.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0014.txt",
+    "processing_time": 48.70672106742859
+  },
+  {
+    "file": "src_0015.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0015.txt",
+    "processing_time": 48.70687532424927
+  },
+  {
+    "file": "src_0016.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0016.txt",
+    "processing_time": 48.70665740966797
+  },
+  {
+    "file": "src_0017.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0017.txt",
+    "processing_time": 48.70454692840576
+  },
+  {
+    "file": "src_0018.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0018.txt",
+    "processing_time": 26.826008796691895
+  },
+  {
+    "file": "src_0019.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0019.txt",
+    "processing_time": 18.899367332458496
+  },
+  {
+    "file": "src_0020.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0020.txt",
+    "processing_time": 47.416948318481445
+  },
+  {
+    "file": "src_0021.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0021.txt",
+    "processing_time": 46.71230506896973
+  },
+  {
+    "file": "src_0022.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0022.txt",
+    "processing_time": 46.71142268180847
+  },
+  {
+    "file": "src_0023.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0023.txt",
+    "processing_time": 46.71165919303894
+  },
+  {
+    "file": "src_0024.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0024.txt",
+    "processing_time": 46.71212816238403
+  },
+  {
+    "file": "src_0025.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0025.txt",
+    "processing_time": 46.711594104766846
+  },
+  {
+    "file": "src_0026.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0026.txt",
+    "processing_time": 46.71070981025696
+  },
+  {
+    "file": "src_0027.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0027.txt",
+    "processing_time": 46.71069383621216
+  },
+  {
+    "file": "src_0028.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0028.txt",
+    "processing_time": 46.71378040313721
+  },
+  {
+    "file": "src_0029.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0029.txt",
+    "processing_time": 46.71060657501221
+  },
+  {
+    "file": "src_0030.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0030.txt",
+    "processing_time": 53.75537371635437
+  },
+  {
+    "file": "src_0031.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0031.txt",
+    "processing_time": 49.03130888938904
+  },
+  {
+    "file": "src_0032.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0032.txt",
+    "processing_time": 49.03122067451477
+  },
+  {
+    "file": "src_0033.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0033.txt",
+    "processing_time": 69.71103978157043
+  },
+  {
+    "file": "src_0034.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0034.txt",
+    "processing_time": 46.415650606155396
+  },
+  {
+    "file": "src_0035.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0035.txt",
+    "processing_time": 51.276997089385986
+  },
+  {
+    "file": "src_0036.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0036.txt",
+    "processing_time": 49.03252601623535
+  },
+  {
+    "file": "src_0037.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0037.txt",
+    "processing_time": 49.03078866004944
+  },
+  {
+    "file": "src_0038.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0038.txt",
+    "processing_time": 49.03087401390076
+  },
+  {
+    "file": "src_0039.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0039.txt",
+    "processing_time": 69.71537923812866
+  },
+  {
+    "file": "src_0040.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0040.txt",
+    "processing_time": 45.65064835548401
+  },
+  {
+    "file": "src_0041.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0041.txt",
+    "processing_time": 39.59223771095276
+  },
+  {
+    "file": "src_0042.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0042.txt",
+    "processing_time": 43.036184310913086
+  },
+  {
+    "file": "src_0043.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0043.txt",
+    "processing_time": 43.034878730773926
+  },
+  {
+    "file": "src_0044.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0044.txt",
+    "processing_time": 43.03747081756592
+  },
+  {
+    "file": "src_0045.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0045.txt",
+    "processing_time": 43.034281492233276
+  },
+  {
+    "file": "src_0046.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0046.txt",
+    "processing_time": 43.034677267074585
+  },
+  {
+    "file": "src_0047.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0047.txt",
+    "processing_time": 26.468902111053467
+  },
+  {
+    "file": "src_0048.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0048.txt",
+    "processing_time": 22.35145401954651
+  },
+  {
+    "file": "src_0049.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0049.txt",
+    "processing_time": 57.8229763507843
+  },
+  {
+    "file": "src_0050.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0050.txt",
+    "processing_time": 60.552326679229736
+  },
+  {
+    "file": "src_0051.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0051.txt",
+    "processing_time": 57.1081907749176
+  },
+  {
+    "file": "src_0052.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0052.txt",
+    "processing_time": 57.108033418655396
+  },
+  {
+    "file": "src_0053.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0053.txt",
+    "processing_time": 57.10809063911438
+  },
+  {
+    "file": "src_0054.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0054.txt",
+    "processing_time": 52.03903889656067
+  },
+  {
+    "file": "src_0055.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0055.txt",
+    "processing_time": 80.04041743278503
+  },
+  {
+    "file": "src_0056.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0056.txt",
+    "processing_time": 57.107877016067505
+  },
+  {
+    "file": "src_0057.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0057.txt",
+    "processing_time": 57.107303619384766
+  },
+  {
+    "file": "src_0058.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0058.txt",
+    "processing_time": 57.106220960617065
+  },
+  {
+    "file": "src_0059.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0059.txt",
+    "processing_time": 52.285447120666504
+  },
+  {
+    "file": "src_0060.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0060.txt",
+    "processing_time": 49.479095697402954
+  },
+  {
+    "file": "src_0061.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0061.txt",
+    "processing_time": 56.423264265060425
+  },
+  {
+    "file": "src_0062.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0062.txt",
+    "processing_time": 56.425599813461304
+  },
+  {
+    "file": "src_0063.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0063.txt",
+    "processing_time": 48.37087607383728
+  },
+  {
+    "file": "src_0064.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0064.txt",
+    "processing_time": 56.42131781578064
+  },
+  {
+    "file": "src_0065.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0065.txt",
+    "processing_time": 52.2613639831543
+  },
+  {
+    "file": "src_0066.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0066.txt",
+    "processing_time": 56.42400026321411
+  },
+  {
+    "file": "src_0067.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0067.txt",
+    "processing_time": 56.42516851425171
+  },
+  {
+    "file": "src_0068.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0068.txt",
+    "processing_time": 33.49031472206116
+  },
+  {
+    "file": "src_0069.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0069.txt",
+    "processing_time": 56.139137506484985
+  },
+  {
+    "file": "src_0070.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0070.txt",
+    "processing_time": 53.999911308288574
+  },
+  {
+    "file": "src_0071.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0071.txt",
+    "processing_time": 55.773850202560425
+  },
+  {
+    "file": "src_0072.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0072.txt",
+    "processing_time": 47.63961124420166
+  },
+  {
+    "file": "src_0073.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0073.txt",
+    "processing_time": 47.722052812576294
+  },
+  {
+    "file": "src_0074.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0074.txt",
+    "processing_time": 73.5827169418335
+  },
+  {
+    "file": "src_0075.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0075.txt",
+    "processing_time": 47.72160530090332
+  },
+  {
+    "file": "src_0076.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0076.txt",
+    "processing_time": 47.72077965736389
+  },
+  {
+    "file": "src_0077.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0077.txt",
+    "processing_time": 47.718590259552
+  },
+  {
+    "file": "src_0078.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0078.txt",
+    "processing_time": 47.719152212142944
+  },
+  {
+    "file": "src_0079.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0079.txt",
+    "processing_time": 52.08542060852051
+  },
+  {
+    "file": "src_0080.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0080.txt",
+    "processing_time": 56.102766036987305
+  },
+  {
+    "file": "src_0081.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0081.txt",
+    "processing_time": 54.61134386062622
+  },
+  {
+    "file": "src_0082.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0082.txt",
+    "processing_time": 62.9070463180542
+  },
+  {
+    "file": "src_0083.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0083.txt",
+    "processing_time": 50.367623805999756
+  },
+  {
+    "file": "src_0084.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0084.txt",
+    "processing_time": 73.29966902732849
+  },
+  {
+    "file": "src_0085.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0085.txt",
+    "processing_time": 44.67815971374512
+  },
+  {
+    "file": "src_0086.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0086.txt",
+    "processing_time": 77.2279405593872
+  },
+  {
+    "file": "src_0087.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0087.txt",
+    "processing_time": 67.25618696212769
+  },
+  {
+    "file": "src_0088.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0088.txt",
+    "processing_time": 51.368361473083496
+  },
+  {
+    "file": "src_0089.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0089.txt",
+    "processing_time": 58.2667281627655
+  },
+  {
+    "file": "src_0090.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0090.txt",
+    "processing_time": 60.323304653167725
+  },
+  {
+    "file": "src_0091.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0091.txt",
+    "processing_time": 54.633933305740356
+  },
+  {
+    "file": "src_0092.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0092.txt",
+    "processing_time": 54.633681297302246
+  },
+  {
+    "file": "src_0093.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0093.txt",
+    "processing_time": 54.63382267951965
+  },
+  {
+    "file": "src_0094.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0094.txt",
+    "processing_time": 39.93382000923157
+  },
+  {
+    "file": "src_0095.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0095.txt",
+    "processing_time": 64.3716299533844
+  },
+  {
+    "file": "src_0096.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0096.txt",
+    "processing_time": 46.34117078781128
+  },
+  {
+    "file": "src_0097.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0097.txt",
+    "processing_time": 47.48591089248657
+  },
+  {
+    "file": "src_0098.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0098.txt",
+    "processing_time": 51.224279165267944
+  },
+  {
+    "file": "src_0099.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0099.txt",
+    "processing_time": 38.62988209724426
+  },
+  {
+    "file": "src_0100.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0100.txt",
+    "processing_time": 53.381953954696655
+  },
+  {
+    "file": "src_0101.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0101.txt",
+    "processing_time": 108.48735404014587
+  },
+  {
+    "file": "src_0102.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0102.txt",
+    "processing_time": 55.37053847312927
+  },
+  {
+    "file": "src_0103.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0103.txt",
+    "processing_time": 55.37046265602112
+  },
+  {
+    "file": "src_0104.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0104.txt",
+    "processing_time": 69.74964690208435
+  },
+  {
+    "file": "src_0105.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0105.txt",
+    "processing_time": 55.110342025756836
+  },
+  {
+    "file": "src_0106.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0106.txt",
+    "processing_time": 50.035937547683716
+  },
+  {
+    "file": "src_0107.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0107.txt",
+    "processing_time": 46.29725480079651
+  },
+  {
+    "file": "src_0108.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0108.txt",
+    "processing_time": 67.23715257644653
+  },
+  {
+    "file": "src_0109.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0109.txt",
+    "processing_time": 38.41781759262085
+  },
+  {
+    "file": "src_0110.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0110.txt",
+    "processing_time": 53.79477119445801
+  },
+  {
+    "file": "src_0111.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0111.txt",
+    "processing_time": 53.115500688552856
+  },
+  {
+    "file": "src_0112.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0112.txt",
+    "processing_time": 53.11675763130188
+  },
+  {
+    "file": "src_0113.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0113.txt",
+    "processing_time": 43.4415225982666
+  },
+  {
+    "file": "src_0114.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0114.txt",
+    "processing_time": 38.73719358444214
+  },
+  {
+    "file": "src_0115.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0115.txt",
+    "processing_time": 60.53893184661865
+  },
+  {
+    "file": "src_0116.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0116.txt",
+    "processing_time": 60.54007148742676
+  },
+  {
+    "file": "src_0117.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0117.txt",
+    "processing_time": 56.68946194648743
+  },
+  {
+    "file": "src_0118.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0118.txt",
+    "processing_time": 44.89566683769226
+  },
+  {
+    "file": "src_0119.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0119.txt",
+    "processing_time": 37.08173370361328
+  },
+  {
+    "file": "src_0120.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0120.txt",
+    "processing_time": 34.92317247390747
+  },
+  {
+    "file": "src_0121.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0121.txt",
+    "processing_time": 45.17386317253113
+  },
+  {
+    "file": "src_0122.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0122.txt",
+    "processing_time": 41.367844343185425
+  },
+  {
+    "file": "src_0123.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0123.txt",
+    "processing_time": 45.17256808280945
+  },
+  {
+    "file": "src_0124.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0124.txt",
+    "processing_time": 45.17266321182251
+  },
+  {
+    "file": "src_0125.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0125.txt",
+    "processing_time": 41.67177700996399
+  },
+  {
+    "file": "src_0126.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0126.txt",
+    "processing_time": 47.17578864097595
+  },
+  {
+    "file": "src_0127.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0127.txt",
+    "processing_time": 51.557595014572144
+  },
+  {
+    "file": "src_0128.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0128.txt",
+    "processing_time": 43.08874773979187
+  },
+  {
+    "file": "src_0129.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0129.txt",
+    "processing_time": 56.97911500930786
+  },
+  {
+    "file": "src_0130.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0130.txt",
+    "processing_time": 51.597163677215576
+  },
+  {
+    "file": "src_0131.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0131.txt",
+    "processing_time": 49.2223744392395
+  },
+  {
+    "file": "src_0132.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0132.txt",
+    "processing_time": 59.74462032318115
+  },
+  {
+    "file": "src_0133.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0133.txt",
+    "processing_time": 45.41674184799194
+  },
+  {
+    "file": "src_0134.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0134.txt",
+    "processing_time": 59.745317697525024
+  },
+  {
+    "file": "src_0135.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0135.txt",
+    "processing_time": 40.22364091873169
+  },
+  {
+    "file": "src_0136.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0136.txt",
+    "processing_time": 35.94000959396362
+  },
+  {
+    "file": "src_0137.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0137.txt",
+    "processing_time": 57.03932857513428
+  },
+  {
+    "file": "src_0138.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0138.txt",
+    "processing_time": 51.27301573753357
+  },
+  {
+    "file": "src_0139.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0139.txt",
+    "processing_time": 43.880047082901
+  },
+  {
+    "file": "src_0140.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0140.txt",
+    "processing_time": 51.820334911346436
+  },
+  {
+    "file": "src_0141.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0141.txt",
+    "processing_time": 54.1562979221344
+  },
+  {
+    "file": "src_0142.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0142.txt",
+    "processing_time": 54.1563184261322
+  },
+  {
+    "file": "src_0143.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0143.txt",
+    "processing_time": 53.57126212120056
+  },
+  {
+    "file": "src_0144.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0144.txt",
+    "processing_time": 60.72802948951721
+  },
+  {
+    "file": "src_0145.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0145.txt",
+    "processing_time": 55.967479944229126
+  },
+  {
+    "file": "src_0146.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0146.txt",
+    "processing_time": 60.72745180130005
+  },
+  {
+    "file": "src_0147.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0147.txt",
+    "processing_time": 41.01171326637268
+  },
+  {
+    "file": "src_0148.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0148.txt",
+    "processing_time": 46.00338172912598
+  },
+  {
+    "file": "src_0149.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0149.txt",
+    "processing_time": 50.009610652923584
+  },
+  {
+    "file": "src_0150.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0150.txt",
+    "processing_time": 45.26403307914734
+  },
+  {
+    "file": "src_0151.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0151.txt",
+    "processing_time": 53.83139634132385
+  },
+  {
+    "file": "src_0152.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0152.txt",
+    "processing_time": 51.19719409942627
+  },
+  {
+    "file": "src_0153.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0153.txt",
+    "processing_time": 45.16006350517273
+  },
+  {
+    "file": "src_0154.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0154.txt",
+    "processing_time": 37.69370675086975
+  },
+  {
+    "file": "src_0155.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0155.txt",
+    "processing_time": 53.709346532821655
+  },
+  {
+    "file": "src_0156.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0156.txt",
+    "processing_time": 47.60017204284668
+  },
+  {
+    "file": "src_0157.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0157.txt",
+    "processing_time": 53.70908260345459
+  },
+  {
+    "file": "src_0158.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0158.txt",
+    "processing_time": 42.951560974121094
+  },
+  {
+    "file": "src_0159.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0159.txt",
+    "processing_time": 38.945443630218506
+  },
+  {
+    "file": "src_0160.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0160.txt",
+    "processing_time": 57.00873279571533
+  },
+  {
+    "file": "src_0161.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0161.txt",
+    "processing_time": 43.58558940887451
+  },
+  {
+    "file": "src_0162.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0162.txt",
+    "processing_time": 52.473769426345825
+  },
+  {
+    "file": "src_0163.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0163.txt",
+    "processing_time": 57.72933530807495
+  },
+  {
+    "file": "src_0164.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0164.txt",
+    "processing_time": 57.72875714302063
+  },
+  {
+    "file": "src_0165.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0165.txt",
+    "processing_time": 43.06258702278137
+  },
+  {
+    "file": "src_0166.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0166.txt",
+    "processing_time": 48.37366461753845
+  },
+  {
+    "file": "src_0167.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0167.txt",
+    "processing_time": 52.39252972602844
+  },
+  {
+    "file": "src_0168.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0168.txt",
+    "processing_time": 52.39241552352905
+  },
+  {
+    "file": "src_0169.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0169.txt",
+    "processing_time": 52.39244294166565
+  },
+  {
+    "file": "src_0170.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0170.txt",
+    "processing_time": 53.36787819862366
+  },
+  {
+    "file": "src_0171.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0171.txt",
+    "processing_time": 43.038678884506226
+  },
+  {
+    "file": "src_0172.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0172.txt",
+    "processing_time": 41.84517312049866
+  },
+  {
+    "file": "src_0173.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0173.txt",
+    "processing_time": 51.70928454399109
+  },
+  {
+    "file": "src_0174.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0174.txt",
+    "processing_time": 51.71006751060486
+  },
+  {
+    "file": "src_0175.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0175.txt",
+    "processing_time": 51.70964765548706
+  },
+  {
+    "file": "src_0176.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0176.txt",
+    "processing_time": 38.24874258041382
+  },
+  {
+    "file": "src_0177.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0177.txt",
+    "processing_time": 64.29277229309082
+  },
+  {
+    "file": "src_0178.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0178.txt",
+    "processing_time": 72.72603297233582
+  },
+  {
+    "file": "src_0179.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0179.txt",
+    "processing_time": 55.95140600204468
+  },
+  {
+    "file": "src_0180.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0180.txt",
+    "processing_time": 65.54976439476013
+  },
+  {
+    "file": "src_0181.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0181.txt",
+    "processing_time": 67.31509160995483
+  },
+  {
+    "file": "src_0182.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0182.txt",
+    "processing_time": 67.31446290016174
+  },
+  {
+    "file": "src_0183.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0183.txt",
+    "processing_time": 54.23473596572876
+  },
+  {
+    "file": "src_0184.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0184.txt",
+    "processing_time": 72.38923525810242
+  },
+  {
+    "file": "src_0185.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0185.txt",
+    "processing_time": 65.68427443504333
+  },
+  {
+    "file": "src_0186.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0186.txt",
+    "processing_time": 69.3139386177063
+  },
+  {
+    "file": "src_0187.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0187.txt",
+    "processing_time": 52.70747089385986
+  },
+  {
+    "file": "src_0188.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0188.txt",
+    "processing_time": 59.97625994682312
+  },
+  {
+    "file": "src_0189.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0189.txt",
+    "processing_time": 47.56092619895935
+  },
+  {
+    "file": "src_0190.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0190.txt",
+    "processing_time": 59.69993042945862
+  },
+  {
+    "file": "src_0191.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0191.txt",
+    "processing_time": 45.84127974510193
+  },
+  {
+    "file": "src_0192.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0192.txt",
+    "processing_time": 52.75976848602295
+  },
+  {
+    "file": "src_0193.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0193.txt",
+    "processing_time": 52.75912380218506
+  },
+  {
+    "file": "src_0194.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0194.txt",
+    "processing_time": 39.26853561401367
+  },
+  {
+    "file": "src_0195.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0195.txt",
+    "processing_time": 35.638792753219604
+  },
+  {
+    "file": "src_0196.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0196.txt",
+    "processing_time": 49.10846757888794
+  },
+  {
+    "file": "src_0197.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0197.txt",
+    "processing_time": 32.56413412094116
+  },
+  {
+    "file": "src_0198.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0198.txt",
+    "processing_time": 47.17638921737671
+  },
+  {
+    "file": "src_0199.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0199.txt",
+    "processing_time": 38.23588728904724
+  },
+  {
+    "file": "src_0200.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0200.txt",
+    "processing_time": 53.00180959701538
+  },
+  {
+    "file": "src_0201.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0201.txt",
+    "processing_time": 39.138216972351074
+  },
+  {
+    "file": "src_0202.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0202.txt",
+    "processing_time": 46.08256912231445
+  },
+  {
+    "file": "src_0203.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0203.txt",
+    "processing_time": 46.081188678741455
+  },
+  {
+    "file": "src_0204.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0204.txt",
+    "processing_time": 62.053648948669434
+  },
+  {
+    "file": "src_0205.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0205.txt",
+    "processing_time": 62.05429005622864
+  },
+  {
+    "file": "src_0206.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0206.txt",
+    "processing_time": 46.079673290252686
+  },
+  {
+    "file": "src_0207.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0207.txt",
+    "processing_time": 45.51031255722046
+  },
+  {
+    "file": "src_0208.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0208.txt",
+    "processing_time": 64.49585938453674
+  },
+  {
+    "file": "src_0209.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0209.txt",
+    "processing_time": 54.63207674026489
+  },
+  {
+    "file": "src_0210.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0210.txt",
+    "processing_time": 58.71008539199829
+  },
+  {
+    "file": "src_0211.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0211.txt",
+    "processing_time": 51.7671594619751
+  },
+  {
+    "file": "src_0212.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0212.txt",
+    "processing_time": 47.40019750595093
+  },
+  {
+    "file": "src_0213.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0213.txt",
+    "processing_time": 60.125093936920166
+  },
+  {
+    "file": "src_0214.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0214.txt",
+    "processing_time": 69.66470694541931
+  },
+  {
+    "file": "src_0215.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0215.txt",
+    "processing_time": 53.69514083862305
+  },
+  {
+    "file": "src_0216.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0216.txt",
+    "processing_time": 50.40507245063782
+  },
+  {
+    "file": "src_0217.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0217.txt",
+    "processing_time": 53.69448161125183
+  },
+  {
+    "file": "src_0218.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0218.txt",
+    "processing_time": 48.041635036468506
+  },
+  {
+    "file": "src_0219.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0219.txt",
+    "processing_time": 48.82015919685364
+  },
+  {
+    "file": "src_0220.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0220.txt",
+    "processing_time": 56.379749059677124
+  },
+  {
+    "file": "src_0221.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0221.txt",
+    "processing_time": 46.34621715545654
+  },
+  {
+    "file": "src_0222.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0222.txt",
+    "processing_time": 52.0141327381134
+  },
+  {
+    "file": "src_0223.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0223.txt",
+    "processing_time": 43.65333652496338
+  },
+  {
+    "file": "src_0224.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0224.txt",
+    "processing_time": 53.83099675178528
+  },
+  {
+    "file": "src_0225.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0225.txt",
+    "processing_time": 46.71392560005188
+  },
+  {
+    "file": "src_0226.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0226.txt",
+    "processing_time": 50.54177117347717
+  },
+  {
+    "file": "src_0227.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0227.txt",
+    "processing_time": 50.541776180267334
+  },
+  {
+    "file": "src_0228.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0228.txt",
+    "processing_time": 50.97114038467407
+  },
+  {
+    "file": "src_0229.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0229.txt",
+    "processing_time": 58.037660121917725
+  },
+  {
+    "file": "src_0230.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0230.txt",
+    "processing_time": 44.782893657684326
+  },
+  {
+    "file": "src_0231.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0231.txt",
+    "processing_time": 54.82050919532776
+  },
+  {
+    "file": "src_0232.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0232.txt",
+    "processing_time": 54.820433378219604
+  },
+  {
+    "file": "src_0233.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0233.txt",
+    "processing_time": 54.819464445114136
+  },
+  {
+    "file": "src_0234.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0234.txt",
+    "processing_time": 42.21931195259094
+  },
+  {
+    "file": "src_0235.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0235.txt",
+    "processing_time": 35.27154779434204
+  },
+  {
+    "file": "src_0236.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0236.txt",
+    "processing_time": 65.12225604057312
+  },
+  {
+    "file": "src_0237.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0237.txt",
+    "processing_time": 65.1225094795227
+  },
+  {
+    "file": "src_0238.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0238.txt",
+    "processing_time": 46.21476221084595
+  },
+  {
+    "file": "src_0239.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0239.txt",
+    "processing_time": 42.43642497062683
+  },
+  {
+    "file": "src_0240.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0240.txt",
+    "processing_time": 61.47581243515015
+  },
+  {
+    "file": "src_0241.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0241.txt",
+    "processing_time": 50.529547929763794
+  },
+  {
+    "file": "src_0242.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0242.txt",
+    "processing_time": 62.35934376716614
+  },
+  {
+    "file": "src_0243.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0243.txt",
+    "processing_time": 62.35960626602173
+  },
+  {
+    "file": "src_0244.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0244.txt",
+    "processing_time": 62.35971426963806
+  },
+  {
+    "file": "src_0245.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0245.txt",
+    "processing_time": 57.188432455062866
+  },
+  {
+    "file": "src_0246.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0246.txt",
+    "processing_time": 53.025115728378296
+  },
+  {
+    "file": "src_0247.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0247.txt",
+    "processing_time": 56.87390446662903
+  },
+  {
+    "file": "src_0248.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0248.txt",
+    "processing_time": 56.87307000160217
+  },
+  {
+    "file": "src_0249.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0249.txt",
+    "processing_time": 52.63276696205139
+  },
+  {
+    "file": "src_0250.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0250.txt",
+    "processing_time": 51.409748792648315
+  },
+  {
+    "file": "src_0251.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0251.txt",
+    "processing_time": 56.383580923080444
+  },
+  {
+    "file": "src_0252.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0252.txt",
+    "processing_time": 55.50034022331238
+  },
+  {
+    "file": "src_0253.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0253.txt",
+    "processing_time": 54.2383759021759
+  },
+  {
+    "file": "src_0254.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0254.txt",
+    "processing_time": 54.23866820335388
+  },
+  {
+    "file": "src_0255.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0255.txt",
+    "processing_time": 54.23785591125488
+  },
+  {
+    "file": "src_0256.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0256.txt",
+    "processing_time": 42.15624928474426
+  },
+  {
+    "file": "src_0257.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0257.txt",
+    "processing_time": 37.23396110534668
+  },
+  {
+    "file": "src_0258.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0258.txt",
+    "processing_time": 58.690574407577515
+  },
+  {
+    "file": "src_0259.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0259.txt",
+    "processing_time": 58.69067859649658
+  },
+  {
+    "file": "src_0260.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0260.txt",
+    "processing_time": 43.47522187232971
+  },
+  {
+    "file": "src_0261.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0261.txt",
+    "processing_time": 30.52916407585144
+  },
+  {
+    "file": "src_0262.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0262.txt",
+    "processing_time": 50.95776700973511
+  },
+  {
+    "file": "src_0263.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0263.txt",
+    "processing_time": 52.33734130859375
+  },
+  {
+    "file": "src_0264.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0264.txt",
+    "processing_time": 58.283894538879395
+  },
+  {
+    "file": "src_0265.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0265.txt",
+    "processing_time": 63.42619204521179
+  },
+  {
+    "file": "src_0266.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0266.txt",
+    "processing_time": 63.426976680755615
+  },
+  {
+    "file": "src_0267.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0267.txt",
+    "processing_time": 63.42892026901245
+  },
+  {
+    "file": "src_0268.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0268.txt",
+    "processing_time": 43.68415904045105
+  },
+  {
+    "file": "src_0269.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0269.txt",
+    "processing_time": 51.0526225566864
+  },
+  {
+    "file": "src_0270.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0270.txt",
+    "processing_time": 57.97162699699402
+  },
+  {
+    "file": "src_0271.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0271.txt",
+    "processing_time": 63.57037091255188
+  },
+  {
+    "file": "src_0272.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0272.txt",
+    "processing_time": 50.89026093482971
+  },
+  {
+    "file": "src_0273.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0273.txt",
+    "processing_time": 51.45754146575928
+  },
+  {
+    "file": "src_0274.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0274.txt",
+    "processing_time": 45.51087951660156
+  },
+  {
+    "file": "src_0275.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0275.txt",
+    "processing_time": 49.21202111244202
+  },
+  {
+    "file": "src_0276.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0276.txt",
+    "processing_time": 54.853376388549805
+  },
+  {
+    "file": "src_0277.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0277.txt",
+    "processing_time": 54.852561712265015
+  },
+  {
+    "file": "src_0278.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0278.txt",
+    "processing_time": 54.85059118270874
+  },
+  {
+    "file": "src_0279.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0279.txt",
+    "processing_time": 56.208606243133545
+  },
+  {
+    "file": "src_0280.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0280.txt",
+    "processing_time": 51.26693940162659
+  },
+  {
+    "file": "src_0281.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0281.txt",
+    "processing_time": 45.66818976402283
+  },
+  {
+    "file": "src_0282.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0282.txt",
+    "processing_time": 43.87469983100891
+  },
+  {
+    "file": "src_0283.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0283.txt",
+    "processing_time": 52.550843954086304
+  },
+  {
+    "file": "src_0284.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0284.txt",
+    "processing_time": 47.10919642448425
+  },
+  {
+    "file": "src_0285.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0285.txt",
+    "processing_time": 43.70671820640564
+  },
+  {
+    "file": "src_0286.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0286.txt",
+    "processing_time": 56.857829332351685
+  },
+  {
+    "file": "src_0287.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0287.txt",
+    "processing_time": 53.304917097091675
+  },
+  {
+    "file": "src_0288.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0288.txt",
+    "processing_time": 48.3444287776947
+  },
+  {
+    "file": "src_0289.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0289.txt",
+    "processing_time": 46.28411602973938
+  },
+  {
+    "file": "src_0290.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0290.txt",
+    "processing_time": 44.305840730667114
+  },
+  {
+    "file": "src_0291.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0291.txt",
+    "processing_time": 60.72919297218323
+  },
+  {
+    "file": "src_0292.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0292.txt",
+    "processing_time": 60.10801887512207
+  },
+  {
+    "file": "src_0293.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0293.txt",
+    "processing_time": 54.928704023361206
+  },
+  {
+    "file": "src_0294.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0294.txt",
+    "processing_time": 53.323041677474976
+  },
+  {
+    "file": "src_0295.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0295.txt",
+    "processing_time": 53.32193613052368
+  },
+  {
+    "file": "src_0296.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0296.txt",
+    "processing_time": 43.04273724555969
+  },
+  {
+    "file": "src_0297.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0297.txt",
+    "processing_time": 57.05647087097168
+  },
+  {
+    "file": "src_0298.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0298.txt",
+    "processing_time": 55.75080752372742
+  },
+  {
+    "file": "src_0299.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0299.txt",
+    "processing_time": 51.64699649810791
+  },
+  {
+    "file": "src_0300.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0300.txt",
+    "processing_time": 69.5187463760376
+  },
+  {
+    "file": "src_0301.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0301.txt",
+    "processing_time": 56.63626956939697
+  },
+  {
+    "file": "src_0302.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0302.txt",
+    "processing_time": 50.380717039108276
+  },
+  {
+    "file": "src_0303.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0303.txt",
+    "processing_time": 57.71246075630188
+  },
+  {
+    "file": "src_0304.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0304.txt",
+    "processing_time": 53.87783622741699
+  },
+  {
+    "file": "src_0305.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0305.txt",
+    "processing_time": 50.11405944824219
+  },
+  {
+    "file": "src_0306.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0306.txt",
+    "processing_time": 53.87686276435852
+  },
+  {
+    "file": "src_0307.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0307.txt",
+    "processing_time": 47.6670196056366
+  },
+  {
+    "file": "src_0308.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0308.txt",
+    "processing_time": 49.65091061592102
+  },
+  {
+    "file": "src_0309.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0309.txt",
+    "processing_time": 49.65094065666199
+  },
+  {
+    "file": "src_0310.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0310.txt",
+    "processing_time": 53.23346138000488
+  },
+  {
+    "file": "src_0311.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0311.txt",
+    "processing_time": 44.85091495513916
+  },
+  {
+    "file": "src_0312.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0312.txt",
+    "processing_time": 49.691938161849976
+  },
+  {
+    "file": "src_0313.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0313.txt",
+    "processing_time": 48.243348836898804
+  },
+  {
+    "file": "src_0314.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0314.txt",
+    "processing_time": 56.4034686088562
+  },
+  {
+    "file": "src_0315.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0315.txt",
+    "processing_time": 50.25158929824829
+  },
+  {
+    "file": "src_0316.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0316.txt",
+    "processing_time": 61.97187423706055
+  },
+  {
+    "file": "src_0317.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0317.txt",
+    "processing_time": 62.01068449020386
+  },
+  {
+    "file": "src_0318.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0318.txt",
+    "processing_time": 61.998780488967896
+  },
+  {
+    "file": "src_0319.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0319.txt",
+    "processing_time": 64.68993878364563
+  },
+  {
+    "file": "src_0320.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0320.txt",
+    "processing_time": 55.11767363548279
+  },
+  {
+    "file": "src_0321.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0321.txt",
+    "processing_time": 56.96592617034912
+  },
+  {
+    "file": "src_0322.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0322.txt",
+    "processing_time": 56.96461319923401
+  },
+  {
+    "file": "src_0323.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0323.txt",
+    "processing_time": 60.99535655975342
+  },
+  {
+    "file": "src_0324.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0324.txt",
+    "processing_time": 49.98821234703064
+  },
+  {
+    "file": "src_0325.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0325.txt",
+    "processing_time": 54.13961982727051
+  },
+  {
+    "file": "src_0326.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0326.txt",
+    "processing_time": 60.666942834854126
+  },
+  {
+    "file": "src_0327.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0327.txt",
+    "processing_time": 42.72583198547363
+  },
+  {
+    "file": "src_0328.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0328.txt",
+    "processing_time": 53.75932168960571
+  },
+  {
+    "file": "src_0329.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0329.txt",
+    "processing_time": 45.693030834198
+  },
+  {
+    "file": "src_0330.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0330.txt",
+    "processing_time": 44.02739405632019
+  },
+  {
+    "file": "src_0331.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0331.txt",
+    "processing_time": 52.90413022041321
+  },
+  {
+    "file": "src_0332.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0332.txt",
+    "processing_time": 52.90321969985962
+  },
+  {
+    "file": "src_0333.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0333.txt",
+    "processing_time": 48.07795166969299
+  },
+  {
+    "file": "src_0334.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0334.txt",
+    "processing_time": 38.200109243392944
+  },
+  {
+    "file": "src_0335.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0335.txt",
+    "processing_time": 59.116589307785034
+  },
+  {
+    "file": "src_0336.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0336.txt",
+    "processing_time": 52.16027545928955
+  },
+  {
+    "file": "src_0337.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0337.txt",
+    "processing_time": 40.60008144378662
+  },
+  {
+    "file": "src_0338.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0338.txt",
+    "processing_time": 50.52008771896362
+  },
+  {
+    "file": "src_0339.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0339.txt",
+    "processing_time": 54.086384773254395
+  },
+  {
+    "file": "src_0340.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0340.txt",
+    "processing_time": 58.81384539604187
+  },
+  {
+    "file": "src_0341.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0341.txt",
+    "processing_time": 47.891308069229126
+  },
+  {
+    "file": "src_0342.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0342.txt",
+    "processing_time": 60.39244771003723
+  },
+  {
+    "file": "src_0343.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0343.txt",
+    "processing_time": 56.76049184799194
+  },
+  {
+    "file": "src_0344.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0344.txt",
+    "processing_time": 60.39209580421448
+  },
+  {
+    "file": "src_0345.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0345.txt",
+    "processing_time": 45.47095775604248
+  },
+  {
+    "file": "src_0346.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0346.txt",
+    "processing_time": 60.43200755119324
+  },
+  {
+    "file": "src_0347.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0347.txt",
+    "processing_time": 39.05009150505066
+  },
+  {
+    "file": "src_0348.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0348.txt",
+    "processing_time": 56.7139105796814
+  },
+  {
+    "file": "src_0349.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0349.txt",
+    "processing_time": 47.7726047039032
+  },
+  {
+    "file": "src_0350.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0350.txt",
+    "processing_time": 66.74911761283875
+  },
+  {
+    "file": "src_0351.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0351.txt",
+    "processing_time": 62.70842695236206
+  },
+  {
+    "file": "src_0352.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0352.txt",
+    "processing_time": 53.23621201515198
+  },
+  {
+    "file": "src_0353.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0353.txt",
+    "processing_time": 65.89699101448059
+  },
+  {
+    "file": "src_0354.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0354.txt",
+    "processing_time": 65.89488410949707
+  },
+  {
+    "file": "src_0355.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0355.txt",
+    "processing_time": 62.372525691986084
+  },
+  {
+    "file": "src_0356.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0356.txt",
+    "processing_time": 76.32548689842224
+  },
+  {
+    "file": "src_0357.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0357.txt",
+    "processing_time": 54.94391632080078
+  },
+  {
+    "file": "src_0358.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0358.txt",
+    "processing_time": 39.99506664276123
+  },
+  {
+    "file": "src_0359.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0359.txt",
+    "processing_time": 63.96476721763611
+  },
+  {
+    "file": "src_0360.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0360.txt",
+    "processing_time": 48.29939556121826
+  },
+  {
+    "file": "src_0361.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0361.txt",
+    "processing_time": 61.12939119338989
+  },
+  {
+    "file": "src_0362.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0362.txt",
+    "processing_time": 55.20772647857666
+  },
+  {
+    "file": "src_0363.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0363.txt",
+    "processing_time": 45.35515475273132
+  },
+  {
+    "file": "src_0364.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0364.txt",
+    "processing_time": 56.458653688430786
+  },
+  {
+    "file": "src_0365.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0365.txt",
+    "processing_time": 49.57598805427551
+  },
+  {
+    "file": "src_0366.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0366.txt",
+    "processing_time": 56.45667386054993
+  },
+  {
+    "file": "src_0367.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0367.txt",
+    "processing_time": 46.02842974662781
+  },
+  {
+    "file": "src_0368.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0368.txt",
+    "processing_time": 46.02818989753723
+  },
+  {
+    "file": "src_0369.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0369.txt",
+    "processing_time": 48.322348833084106
+  },
+  {
+    "file": "src_0370.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0370.txt",
+    "processing_time": 51.354424476623535
+  },
+  {
+    "file": "src_0371.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0371.txt",
+    "processing_time": 51.66942834854126
+  },
+  {
+    "file": "src_0372.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0372.txt",
+    "processing_time": 52.24691033363342
+  },
+  {
+    "file": "src_0373.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0373.txt",
+    "processing_time": 49.24183917045593
+  },
+  {
+    "file": "src_0374.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0374.txt",
+    "processing_time": 44.502930641174316
+  },
+  {
+    "file": "src_0375.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0375.txt",
+    "processing_time": 60.98871994018555
+  },
+  {
+    "file": "src_0376.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0376.txt",
+    "processing_time": 50.87376880645752
+  },
+  {
+    "file": "src_0377.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0377.txt",
+    "processing_time": 37.62103295326233
+  },
+  {
+    "file": "src_0378.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0378.txt",
+    "processing_time": 54.07628154754639
+  },
+  {
+    "file": "src_0379.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0379.txt",
+    "processing_time": 41.161744117736816
+  },
+  {
+    "file": "src_0380.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0380.txt",
+    "processing_time": 38.12399387359619
+  },
+  {
+    "file": "src_0381.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0381.txt",
+    "processing_time": 52.149606704711914
+  },
+  {
+    "file": "src_0382.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0382.txt",
+    "processing_time": 48.657140493392944
+  },
+  {
+    "file": "src_0383.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0383.txt",
+    "processing_time": 45.17995238304138
+  },
+  {
+    "file": "src_0384.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0384.txt",
+    "processing_time": 74.08392596244812
+  },
+  {
+    "file": "src_0385.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0385.txt",
+    "processing_time": 48.65585660934448
+  },
+  {
+    "file": "src_0386.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0386.txt",
+    "processing_time": 35.404194593429565
+  },
+  {
+    "file": "src_0387.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0387.txt",
+    "processing_time": 32.20169115066528
+  },
+  {
+    "file": "src_0388.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0388.txt",
+    "processing_time": 29.282135248184204
+  },
+  {
+    "file": "src_0389.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0389.txt",
+    "processing_time": 50.71741032600403
+  },
+  {
+    "file": "src_0390.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0390.txt",
+    "processing_time": 25.288979291915894
+  },
+  {
+    "file": "src_0391.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0391.txt",
+    "processing_time": 49.05679440498352
+  },
+  {
+    "file": "src_0392.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0392.txt",
+    "processing_time": 48.477519273757935
+  },
+  {
+    "file": "src_0393.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0393.txt",
+    "processing_time": 48.477484703063965
+  },
+  {
+    "file": "src_0394.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0394.txt",
+    "processing_time": 48.47729802131653
+  },
+  {
+    "file": "src_0395.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0395.txt",
+    "processing_time": 48.47735261917114
+  },
+  {
+    "file": "src_0396.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0396.txt",
+    "processing_time": 48.477357387542725
+  },
+  {
+    "file": "src_0397.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0397.txt",
+    "processing_time": 48.477413177490234
+  },
+  {
+    "file": "src_0398.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0398.txt",
+    "processing_time": 67.33735823631287
+  },
+  {
+    "file": "src_0399.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0399.txt",
+    "processing_time": 41.909032106399536
+  },
+  {
+    "file": "src_0400.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0400.txt",
+    "processing_time": 41.908782958984375
+  },
+  {
+    "file": "src_0401.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0401.txt",
+    "processing_time": 47.89152765274048
+  },
+  {
+    "file": "src_0402.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0402.txt",
+    "processing_time": 47.70118260383606
+  },
+  {
+    "file": "src_0403.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0403.txt",
+    "processing_time": 47.70108151435852
+  },
+  {
+    "file": "src_0404.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0404.txt",
+    "processing_time": 47.701040267944336
+  },
+  {
+    "file": "src_0405.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0405.txt",
+    "processing_time": 47.70089387893677
+  },
+  {
+    "file": "src_0406.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0406.txt",
+    "processing_time": 47.70106911659241
+  },
+  {
+    "file": "src_0407.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0407.txt",
+    "processing_time": 47.70090293884277
+  },
+  {
+    "file": "src_0408.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0408.txt",
+    "processing_time": 28.841742277145386
+  },
+  {
+    "file": "src_0409.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0409.txt",
+    "processing_time": 28.841646194458008
+  },
+  {
+    "file": "src_0410.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0410.txt",
+    "processing_time": 28.84112572669983
+  },
+  {
+    "file": "src_0411.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0411.txt",
+    "processing_time": 42.32001042366028
+  },
+  {
+    "file": "src_0412.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0412.txt",
+    "processing_time": 43.370341777801514
+  },
+  {
+    "file": "src_0413.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0413.txt",
+    "processing_time": 43.36999154090881
+  },
+  {
+    "file": "src_0414.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0414.txt",
+    "processing_time": 43.36987090110779
+  },
+  {
+    "file": "src_0415.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0415.txt",
+    "processing_time": 43.36815357208252
+  },
+  {
+    "file": "src_0416.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0416.txt",
+    "processing_time": 43.36995983123779
+  },
+  {
+    "file": "src_0417.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0417.txt",
+    "processing_time": 43.36999225616455
+  },
+  {
+    "file": "src_0418.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0418.txt",
+    "processing_time": 43.36999797821045
+  },
+  {
+    "file": "src_0419.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0419.txt",
+    "processing_time": 86.54802536964417
+  },
+  {
+    "file": "src_0420.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0420.txt",
+    "processing_time": 43.36990284919739
+  },
+  {
+    "file": "src_0421.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0421.txt",
+    "processing_time": 44.24984931945801
+  },
+  {
+    "file": "src_0422.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0422.txt",
+    "processing_time": 43.1797513961792
+  },
+  {
+    "file": "src_0423.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0423.txt",
+    "processing_time": 43.17695474624634
+  },
+  {
+    "file": "src_0424.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0424.txt",
+    "processing_time": 64.02832221984863
+  },
+  {
+    "file": "src_0425.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0425.txt",
+    "processing_time": 43.17684578895569
+  },
+  {
+    "file": "src_0426.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0426.txt",
+    "processing_time": 43.17667889595032
+  },
+  {
+    "file": "src_0427.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0427.txt",
+    "processing_time": 43.176764249801636
+  },
+  {
+    "file": "src_0428.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0428.txt",
+    "processing_time": 43.177236557006836
+  },
+  {
+    "file": "src_0429.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0429.txt",
+    "processing_time": 64.02872252464294
+  },
+  {
+    "file": "src_0430.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0430.txt",
+    "processing_time": 48.55253577232361
+  },
+  {
+    "file": "src_0431.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0431.txt",
+    "processing_time": 42.79252362251282
+  },
+  {
+    "file": "src_0432.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0432.txt",
+    "processing_time": 45.867090940475464
+  },
+  {
+    "file": "src_0433.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0433.txt",
+    "processing_time": 45.86633253097534
+  },
+  {
+    "file": "src_0434.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0434.txt",
+    "processing_time": 45.86701846122742
+  },
+  {
+    "file": "src_0435.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0435.txt",
+    "processing_time": 45.86881709098816
+  },
+  {
+    "file": "src_0436.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0436.txt",
+    "processing_time": 45.86865544319153
+  },
+  {
+    "file": "src_0437.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0437.txt",
+    "processing_time": 45.86791157722473
+  },
+  {
+    "file": "src_0438.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0438.txt",
+    "processing_time": 49.864741802215576
+  },
+  {
+    "file": "src_0439.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0439.txt",
+    "processing_time": 53.33501100540161
+  },
+  {
+    "file": "src_0440.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0440.txt",
+    "processing_time": 48.299347162246704
+  },
+  {
+    "file": "src_0441.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0441.txt",
+    "processing_time": 49.53337383270264
+  },
+  {
+    "file": "src_0442.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0442.txt",
+    "processing_time": 49.53316617012024
+  },
+  {
+    "file": "src_0443.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0443.txt",
+    "processing_time": 49.53326725959778
+  },
+  {
+    "file": "src_0444.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0444.txt",
+    "processing_time": 49.53317070007324
+  },
+  {
+    "file": "src_0445.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0445.txt",
+    "processing_time": 49.531646490097046
+  },
+  {
+    "file": "src_0446.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0446.txt",
+    "processing_time": 49.531421422958374
+  },
+  {
+    "file": "src_0447.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0447.txt",
+    "processing_time": 49.53030776977539
+  },
+  {
+    "file": "src_0448.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0448.txt",
+    "processing_time": 45.24469065666199
+  },
+  {
+    "file": "src_0449.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0449.txt",
+    "processing_time": 21.21351671218872
+  },
+  {
+    "file": "src_0450.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0450.txt",
+    "processing_time": 42.33535194396973
+  },
+  {
+    "file": "src_0451.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0451.txt",
+    "processing_time": 41.856892824172974
+  },
+  {
+    "file": "src_0452.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0452.txt",
+    "processing_time": 41.855984926223755
+  },
+  {
+    "file": "src_0453.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0453.txt",
+    "processing_time": 67.4171245098114
+  },
+  {
+    "file": "src_0454.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0454.txt",
+    "processing_time": 41.85586428642273
+  },
+  {
+    "file": "src_0455.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0455.txt",
+    "processing_time": 41.85672092437744
+  },
+  {
+    "file": "src_0456.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0456.txt",
+    "processing_time": 41.85595965385437
+  },
+  {
+    "file": "src_0457.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0457.txt",
+    "processing_time": 41.85665583610535
+  },
+  {
+    "file": "src_0458.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0458.txt",
+    "processing_time": 58.175556659698486
+  },
+  {
+    "file": "src_0459.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0459.txt",
+    "processing_time": 37.614827394485474
+  },
+  {
+    "file": "src_0460.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0460.txt",
+    "processing_time": 41.35721731185913
+  },
+  {
+    "file": "src_0461.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0461.txt",
+    "processing_time": 43.34227657318115
+  },
+  {
+    "file": "src_0462.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0462.txt",
+    "processing_time": 43.34225106239319
+  },
+  {
+    "file": "src_0463.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0463.txt",
+    "processing_time": 43.342228412628174
+  },
+  {
+    "file": "src_0464.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0464.txt",
+    "processing_time": 43.34259653091431
+  },
+  {
+    "file": "src_0465.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0465.txt",
+    "processing_time": 43.342875957489014
+  },
+  {
+    "file": "src_0466.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0466.txt",
+    "processing_time": 68.59517669677734
+  },
+  {
+    "file": "src_0467.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0467.txt",
+    "processing_time": 27.02429175376892
+  },
+  {
+    "file": "src_0468.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0468.txt",
+    "processing_time": 27.023637294769287
+  },
+  {
+    "file": "src_0469.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0469.txt",
+    "processing_time": 17.781583070755005
+  },
+  {
+    "file": "src_0470.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0470.txt",
+    "processing_time": 50.436001777648926
+  },
+  {
+    "file": "src_0471.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0471.txt",
+    "processing_time": 44.61979937553406
+  },
+  {
+    "file": "src_0472.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0472.txt",
+    "processing_time": 44.619611501693726
+  },
+  {
+    "file": "src_0473.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0473.txt",
+    "processing_time": 44.619629859924316
+  },
+  {
+    "file": "src_0474.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0474.txt",
+    "processing_time": 44.61960816383362
+  },
+  {
+    "file": "src_0475.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0475.txt",
+    "processing_time": 44.61959624290466
+  },
+  {
+    "file": "src_0476.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0476.txt",
+    "processing_time": 44.61960530281067
+  },
+  {
+    "file": "src_0477.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0477.txt",
+    "processing_time": 72.0712537765503
+  },
+  {
+    "file": "src_0478.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0478.txt",
+    "processing_time": 40.38076114654541
+  },
+  {
+    "file": "src_0479.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0479.txt",
+    "processing_time": 19.367109298706055
+  },
+  {
+    "file": "src_0480.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0480.txt",
+    "processing_time": 47.01628351211548
+  },
+  {
+    "file": "src_0481.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0481.txt",
+    "processing_time": 48.3720428943634
+  },
+  {
+    "file": "src_0482.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0482.txt",
+    "processing_time": 48.37203574180603
+  },
+  {
+    "file": "src_0483.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0483.txt",
+    "processing_time": 48.37390089035034
+  },
+  {
+    "file": "src_0484.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0484.txt",
+    "processing_time": 48.37298560142517
+  },
+  {
+    "file": "src_0485.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0485.txt",
+    "processing_time": 48.371819734573364
+  },
+  {
+    "file": "src_0486.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0486.txt",
+    "processing_time": 48.37192940711975
+  },
+  {
+    "file": "src_0487.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0487.txt",
+    "processing_time": 48.37188363075256
+  },
+  {
+    "file": "src_0488.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0488.txt",
+    "processing_time": 48.372315883636475
+  },
+  {
+    "file": "src_0489.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0489.txt",
+    "processing_time": 20.92061138153076
+  },
+  {
+    "file": "src_0490.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0490.txt",
+    "processing_time": 53.6393404006958
+  },
+  {
+    "file": "src_0491.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0491.txt",
+    "processing_time": 48.62425136566162
+  },
+  {
+    "file": "src_0492.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0492.txt",
+    "processing_time": 48.858699798583984
+  },
+  {
+    "file": "src_0493.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0493.txt",
+    "processing_time": 50.523895502090454
+  },
+  {
+    "file": "src_0494.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0494.txt",
+    "processing_time": 51.296801805496216
+  },
+  {
+    "file": "src_0495.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0495.txt",
+    "processing_time": 48.928083658218384
+  },
+  {
+    "file": "src_0496.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0496.txt",
+    "processing_time": 50.46460247039795
+  },
+  {
+    "file": "src_0497.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0497.txt",
+    "processing_time": 49.73287105560303
+  },
+  {
+    "file": "src_0498.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0498.txt",
+    "processing_time": 51.40624237060547
+  },
+  {
+    "file": "src_0499.txt",
+    "success": true,
+    "output_file": "temp_deeptransfer/ref_0499.txt",
+    "processing_time": 51.92452931404114
+  }
+]

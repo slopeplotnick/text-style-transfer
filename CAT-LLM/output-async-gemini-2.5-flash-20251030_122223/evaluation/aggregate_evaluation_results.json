@@ -1,0 +1,38 @@
+{
+  "bleu-1_content": 0.3971,
+  "bleu-2_content": 0.2247,
+  "bleu-3_content": 0.1403,
+  "bleu-4_content": 0.0942,
+  "bleu-1_style": 0.5135,
+  "bleu-2_style": 0.3387,
+  "bleu-3_style": 0.2359,
+  "bleu-4_style": 0.1701,
+  "bert_precision_content": 0.6889,
+  "bert_recall_content": 0.6809,
+  "bert_f1_content": 0.6848,
+  "bert_precision_style": 0.7521,
+  "bert_recall_style": 0.7709,
+  "bert_f1_style": 0.7613,
+  "style_transfer_accuracy": 0.4,
+  "style_transfer_std": 0.4899,
+  "perplexity_mean": 23.708,
+  "perplexity_std": 4.5426,
+  "fluency_score": 0.7889,
+  "overall_score": 0.3818,
+  "dataset_info": {
+    "num_articles": 10,
+    "num_paragraphs": 10,
+    "articles": [
+      "Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated",
+      "Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated",
+      "Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated",
+      "DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated",
+      "Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated",
+      "MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated",
+      "Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated",
+      "Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated",
+      "Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated",
+      "A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 17.72390079498291
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 16.97801375389099
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 21.01567268371582
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 24.337449550628662
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 21.786364793777466
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 18.69244885444641
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 14.27354383468628
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 19.257184267044067
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 27.756383657455444
+  },
+  {
+    "input_file": "/root/datasets/text_style_transfer/ipm_abstracts/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated.txt",
+    "output_file": "./output-async-gemini-2.5-flash-20251030_122223/style_removed/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 36.07808780670166
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "input_file": "temp_catllm/style_removed/src_0270.txt",
+    "output_file": "temp_catllm/transferred/src_0270_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 4.701172113418579
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0276.txt",
+    "output_file": "temp_catllm/transferred/src_0276_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 3.952953577041626
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0183.txt",
+    "output_file": "temp_catllm/transferred/src_0183_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 5.130036115646362
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0123.txt",
+    "output_file": "temp_catllm/transferred/src_0123_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 5.054489374160767
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0005.txt",
+    "output_file": "temp_catllm/transferred/src_0005_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 4.3012895584106445
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0447.txt",
+    "output_file": "temp_catllm/transferred/src_0447_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 4.427381992340088
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0482.txt",
+    "output_file": "temp_catllm/transferred/src_0482_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 5.21956467628479
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0392.txt",
+    "output_file": "temp_catllm/transferred/src_0392_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 4.685364484786987
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0254.txt",
+    "output_file": "temp_catllm/transferred/src_0254_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 5.499705791473389
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0223.txt",
+    "output_file": "temp_catllm/transferred/src_0223_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 5.106821298599243
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0419.txt",
+    "output_file": "temp_catllm/transferred/src_0419_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 10.08794903755188
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0345.txt",
+    "output_file": "temp_catllm/transferred/src_0345_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 9.373520374298096
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0067.txt",
+    "output_file": "temp_catllm/transferred/src_0067_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 11.225701570510864
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0055.txt",
+    "output_file": "temp_catllm/transferred/src_0055_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 10.74329948425293
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0258.txt",
+    "output_file": "temp_catllm/transferred/src_0258_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 9.670254230499268
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0247.txt",
+    "output_file": "temp_catllm/transferred/src_0247_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 10.367202520370483
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0318.txt",
+    "output_file": "temp_catllm/transferred/src_0318_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 9.888444662094116
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0101.txt",
+    "output_file": "temp_catllm/transferred/src_0101_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 9.588556051254272
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0449.txt",
+    "output_file": "temp_catllm/transferred/src_0449_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 10.727534294128418
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0333.txt",
+    "output_file": "temp_catllm/transferred/src_0333_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 10.695749282836914
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0079.txt",
+    "output_file": "temp_catllm/transferred/src_0079_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 14.066744565963745
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0194.txt",
+    "output_file": "temp_catllm/transferred/src_0194_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 14.224934339523315
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0441.txt",
+    "output_file": "temp_catllm/transferred/src_0441_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 14.341754913330078
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0140.txt",
+    "output_file": "temp_catllm/transferred/src_0140_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 14.302221298217773
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0348.txt",
+    "output_file": "temp_catllm/transferred/src_0348_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.390799522399902
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0052.txt",
+    "output_file": "temp_catllm/transferred/src_0052_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.34812879562378
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0062.txt",
+    "output_file": "temp_catllm/transferred/src_0062_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.575876951217651
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0312.txt",
+    "output_file": "temp_catllm/transferred/src_0312_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.650652408599854
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0134.txt",
+    "output_file": "temp_catllm/transferred/src_0134_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.77285385131836
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0076.txt",
+    "output_file": "temp_catllm/transferred/src_0076_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 15.821224451065063
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0089.txt",
+    "output_file": "temp_catllm/transferred/src_0089_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 18.01745891571045
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0100.txt",
+    "output_file": "temp_catllm/transferred/src_0100_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 19.225478887557983
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0153.txt",
+    "output_file": "temp_catllm/transferred/src_0153_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 18.952687978744507
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0105.txt",
+    "output_file": "temp_catllm/transferred/src_0105_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 19.124850273132324
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0327.txt",
+    "output_file": "temp_catllm/transferred/src_0327_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 20.18606996536255
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0372.txt",
+    "output_file": "temp_catllm/transferred/src_0372_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 22.18153429031372
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0255.txt",
+    "output_file": "temp_catllm/transferred/src_0255_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 22.914516925811768
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0065.txt",
+    "output_file": "temp_catllm/transferred/src_0065_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 18.846192121505737
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0066.txt",
+    "output_file": "temp_catllm/transferred/src_0066_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 20.416059732437134
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0036.txt",
+    "output_file": "temp_catllm/transferred/src_0036_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 20.026779413223267
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0292.txt",
+    "output_file": "temp_catllm/transferred/src_0292_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 23.767634868621826
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0124.txt",
+    "output_file": "temp_catllm/transferred/src_0124_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 22.68128538131714
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0189.txt",
+    "output_file": "temp_catllm/transferred/src_0189_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 25.106369733810425
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0429.txt",
+    "output_file": "temp_catllm/transferred/src_0429_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 24.217419385910034
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0022.txt",
+    "output_file": "temp_catllm/transferred/src_0022_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 24.104435443878174
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0473.txt",
+    "output_file": "temp_catllm/transferred/src_0473_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 26.592543840408325
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0050.txt",
+    "output_file": "temp_catllm/transferred/src_0050_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 25.050817489624023
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0047.txt",
+    "output_file": "temp_catllm/transferred/src_0047_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 27.182997703552246
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0467.txt",
+    "output_file": "temp_catllm/transferred/src_0467_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 26.75762939453125
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0064.txt",
+    "output_file": "temp_catllm/transferred/src_0064_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 27.23764944076538
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0283.txt",
+    "output_file": "temp_catllm/transferred/src_0283_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 27.273832082748413
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0187.txt",
+    "output_file": "temp_catllm/transferred/src_0187_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 31.251617908477783
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0314.txt",
+    "output_file": "temp_catllm/transferred/src_0314_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 29.495524168014526
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0006.txt",
+    "output_file": "temp_catllm/transferred/src_0006_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 30.639867544174194
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0491.txt",
+    "output_file": "temp_catllm/transferred/src_0491_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 29.403441905975342
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0466.txt",
+    "output_file": "temp_catllm/transferred/src_0466_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 30.879472970962524
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0158.txt",
+    "output_file": "temp_catllm/transferred/src_0158_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 31.384649991989136
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0225.txt",
+    "output_file": "temp_catllm/transferred/src_0225_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 31.18771743774414
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0040.txt",
+    "output_file": "temp_catllm/transferred/src_0040_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 31.64137578010559
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0274.txt",
+    "output_file": "temp_catllm/transferred/src_0274_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 32.86645269393921
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0221.txt",
+    "output_file": "temp_catllm/transferred/src_0221_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 32.080254316329956
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0139.txt",
+    "output_file": "temp_catllm/transferred/src_0139_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 33.84814739227295
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0260.txt",
+    "output_file": "temp_catllm/transferred/src_0260_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 33.19830846786499
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0423.txt",
+    "output_file": "temp_catllm/transferred/src_0423_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 36.369380950927734
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0455.txt",
+    "output_file": "temp_catllm/transferred/src_0455_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 35.24523401260376
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0099.txt",
+    "output_file": "temp_catllm/transferred/src_0099_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 35.508997201919556
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0430.txt",
+    "output_file": "temp_catllm/transferred/src_0430_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 35.81491303443909
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0350.txt",
+    "output_file": "temp_catllm/transferred/src_0350_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 36.437052726745605
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0059.txt",
+    "output_file": "temp_catllm/transferred/src_0059_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 35.96393585205078
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0347.txt",
+    "output_file": "temp_catllm/transferred/src_0347_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 36.278188943862915
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0084.txt",
+    "output_file": "temp_catllm/transferred/src_0084_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 37.25973081588745
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0490.txt",
+    "output_file": "temp_catllm/transferred/src_0490_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 36.9723687171936
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0334.txt",
+    "output_file": "temp_catllm/transferred/src_0334_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 37.833956718444824
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0117.txt",
+    "output_file": "temp_catllm/transferred/src_0117_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 41.13534331321716
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0478.txt",
+    "output_file": "temp_catllm/transferred/src_0478_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 39.306649923324585
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0418.txt",
+    "output_file": "temp_catllm/transferred/src_0418_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 40.47184228897095
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0048.txt",
+    "output_file": "temp_catllm/transferred/src_0048_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 40.467405557632446
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0063.txt",
+    "output_file": "temp_catllm/transferred/src_0063_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 41.02557897567749
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0143.txt",
+    "output_file": "temp_catllm/transferred/src_0143_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 42.01667761802673
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0211.txt",
+    "output_file": "temp_catllm/transferred/src_0211_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 41.8201539516449
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0353.txt",
+    "output_file": "temp_catllm/transferred/src_0353_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 41.35997462272644
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0425.txt",
+    "output_file": "temp_catllm/transferred/src_0425_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 42.59242343902588
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0250.txt",
+    "output_file": "temp_catllm/transferred/src_0250_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 42.970638036727905
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0331.txt",
+    "output_file": "temp_catllm/transferred/src_0331_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 44.72956848144531
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0262.txt",
+    "output_file": "temp_catllm/transferred/src_0262_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 45.66144800186157
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0386.txt",
+    "output_file": "temp_catllm/transferred/src_0386_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 44.97400379180908
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0181.txt",
+    "output_file": "temp_catllm/transferred/src_0181_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 47.123696088790894
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0043.txt",
+    "output_file": "temp_catllm/transferred/src_0043_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 45.962636947631836
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0304.txt",
+    "output_file": "temp_catllm/transferred/src_0304_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 46.13420534133911
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0290.txt",
+    "output_file": "temp_catllm/transferred/src_0290_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 46.590296506881714
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0081.txt",
+    "output_file": "temp_catllm/transferred/src_0081_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 47.10922408103943
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0068.txt",
+    "output_file": "temp_catllm/transferred/src_0068_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 46.62328314781189
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0120.txt",
+    "output_file": "temp_catllm/transferred/src_0120_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 47.63362526893616
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0008.txt",
+    "output_file": "temp_catllm/transferred/src_0008_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 49.0713574886322
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0460.txt",
+    "output_file": "temp_catllm/transferred/src_0460_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 48.222811460494995
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0240.txt",
+    "output_file": "temp_catllm/transferred/src_0240_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 49.80809044837952
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0369.txt",
+    "output_file": "temp_catllm/transferred/src_0369_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 51.18565273284912
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0405.txt",
+    "output_file": "temp_catllm/transferred/src_0405_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 50.82978963851929
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0377.txt",
+    "output_file": "temp_catllm/transferred/src_0377_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 51.578567028045654
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0457.txt",
+    "output_file": "temp_catllm/transferred/src_0457_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 52.94348692893982
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0335.txt",
+    "output_file": "temp_catllm/transferred/src_0335_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 53.81878185272217
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0160.txt",
+    "output_file": "temp_catllm/transferred/src_0160_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 51.28391718864441
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0035.txt",
+    "output_file": "temp_catllm/transferred/src_0035_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 52.5151309967041
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0176.txt",
+    "output_file": "temp_catllm/transferred/src_0176_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 52.26098084449768
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0256.txt",
+    "output_file": "temp_catllm/transferred/src_0256_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 54.6560845375061
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0330.txt",
+    "output_file": "temp_catllm/transferred/src_0330_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 54.247087717056274
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0097.txt",
+    "output_file": "temp_catllm/transferred/src_0097_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 55.67439842224121
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0428.txt",
+    "output_file": "temp_catllm/transferred/src_0428_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 56.94961929321289
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0363.txt",
+    "output_file": "temp_catllm/transferred/src_0363_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 56.32676339149475
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0180.txt",
+    "output_file": "temp_catllm/transferred/src_0180_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 56.44951295852661
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0203.txt",
+    "output_file": "temp_catllm/transferred/src_0203_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 57.0279016494751
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0252.txt",
+    "output_file": "temp_catllm/transferred/src_0252_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 57.24047493934631
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0302.txt",
+    "output_file": "temp_catllm/transferred/src_0302_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 57.241432905197144
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0266.txt",
+    "output_file": "temp_catllm/transferred/src_0266_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 58.97979784011841
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0011.txt",
+    "output_file": "temp_catllm/transferred/src_0011_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 59.337966203689575
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0107.txt",
+    "output_file": "temp_catllm/transferred/src_0107_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 60.36850190162659
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0090.txt",
+    "output_file": "temp_catllm/transferred/src_0090_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 60.97432327270508
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0472.txt",
+    "output_file": "temp_catllm/transferred/src_0472_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 62.47612023353577
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0116.txt",
+    "output_file": "temp_catllm/transferred/src_0116_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 60.44952845573425
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0217.txt",
+    "output_file": "temp_catllm/transferred/src_0217_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 60.96827054023743
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0192.txt",
+    "output_file": "temp_catllm/transferred/src_0192_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 62.653992891311646
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0118.txt",
+    "output_file": "temp_catllm/transferred/src_0118_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 62.22604942321777
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0384.txt",
+    "output_file": "temp_catllm/transferred/src_0384_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 63.65001893043518
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0004.txt",
+    "output_file": "temp_catllm/transferred/src_0004_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 63.97271513938904
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0456.txt",
+    "output_file": "temp_catllm/transferred/src_0456_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 64.85345888137817
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0041.txt",
+    "output_file": "temp_catllm/transferred/src_0041_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 69.13589334487915
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0121.txt",
+    "output_file": "temp_catllm/transferred/src_0121_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 64.23420238494873
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0383.txt",
+    "output_file": "temp_catllm/transferred/src_0383_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 64.18384051322937
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0404.txt",
+    "output_file": "temp_catllm/transferred/src_0404_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 69.96914410591125
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0464.txt",
+    "output_file": "temp_catllm/transferred/src_0464_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 71.98807621002197
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0376.txt",
+    "output_file": "temp_catllm/transferred/src_0376_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 67.37050247192383
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0479.txt",
+    "output_file": "temp_catllm/transferred/src_0479_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 68.63027453422546
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0296.txt",
+    "output_file": "temp_catllm/transferred/src_0296_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 69.20705914497375
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0264.txt",
+    "output_file": "temp_catllm/transferred/src_0264_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 69.22140169143677
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0280.txt",
+    "output_file": "temp_catllm/transferred/src_0280_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 69.0031111240387
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0328.txt",
+    "output_file": "temp_catllm/transferred/src_0328_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 68.7906265258789
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0222.txt",
+    "output_file": "temp_catllm/transferred/src_0222_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 68.78539824485779
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0029.txt",
+    "output_file": "temp_catllm/transferred/src_0029_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 72.79559564590454
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0458.txt",
+    "output_file": "temp_catllm/transferred/src_0458_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 73.3941376209259
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0015.txt",
+    "output_file": "temp_catllm/transferred/src_0015_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 74.61296343803406
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0261.txt",
+    "output_file": "temp_catllm/transferred/src_0261_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 73.8640148639679
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0375.txt",
+    "output_file": "temp_catllm/transferred/src_0375_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 73.87943959236145
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0175.txt",
+    "output_file": "temp_catllm/transferred/src_0175_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 74.25835537910461
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0357.txt",
+    "output_file": "temp_catllm/transferred/src_0357_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 76.02643275260925
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0058.txt",
+    "output_file": "temp_catllm/transferred/src_0058_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 72.67227125167847
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0182.txt",
+    "output_file": "temp_catllm/transferred/src_0182_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 76.6082878112793
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0293.txt",
+    "output_file": "temp_catllm/transferred/src_0293_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 75.99864149093628
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0259.txt",
+    "output_file": "temp_catllm/transferred/src_0259_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 77.35941624641418
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0487.txt",
+    "output_file": "temp_catllm/transferred/src_0487_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 77.77383995056152
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0072.txt",
+    "output_file": "temp_catllm/transferred/src_0072_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 77.8379020690918
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0103.txt",
+    "output_file": "temp_catllm/transferred/src_0103_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 77.33133363723755
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0213.txt",
+    "output_file": "temp_catllm/transferred/src_0213_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 79.47202587127686
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0111.txt",
+    "output_file": "temp_catllm/transferred/src_0111_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 79.23362421989441
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0109.txt",
+    "output_file": "temp_catllm/transferred/src_0109_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 80.09946894645691
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0387.txt",
+    "output_file": "temp_catllm/transferred/src_0387_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 81.90390682220459
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0017.txt",
+    "output_file": "temp_catllm/transferred/src_0017_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 84.49423742294312
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0053.txt",
+    "output_file": "temp_catllm/transferred/src_0053_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 81.60134172439575
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0307.txt",
+    "output_file": "temp_catllm/transferred/src_0307_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 81.2711386680603
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0493.txt",
+    "output_file": "temp_catllm/transferred/src_0493_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 82.23023796081543
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0236.txt",
+    "output_file": "temp_catllm/transferred/src_0236_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 84.17060208320618
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0080.txt",
+    "output_file": "temp_catllm/transferred/src_0080_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 81.54006552696228
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0414.txt",
+    "output_file": "temp_catllm/transferred/src_0414_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 83.96340727806091
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0297.txt",
+    "output_file": "temp_catllm/transferred/src_0297_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 84.60096001625061
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0129.txt",
+    "output_file": "temp_catllm/transferred/src_0129_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 85.14709830284119
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0098.txt",
+    "output_file": "temp_catllm/transferred/src_0098_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 84.94306540489197
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0093.txt",
+    "output_file": "temp_catllm/transferred/src_0093_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 86.87744307518005
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0119.txt",
+    "output_file": "temp_catllm/transferred/src_0119_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 86.40261721611023
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0034.txt",
+    "output_file": "temp_catllm/transferred/src_0034_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 86.3977963924408
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0453.txt",
+    "output_file": "temp_catllm/transferred/src_0453_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 86.92660999298096
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0301.txt",
+    "output_file": "temp_catllm/transferred/src_0301_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 88.0595920085907
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0144.txt",
+    "output_file": "temp_catllm/transferred/src_0144_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 90.01923060417175
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0110.txt",
+    "output_file": "temp_catllm/transferred/src_0110_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 90.59845042228699
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0085.txt",
+    "output_file": "temp_catllm/transferred/src_0085_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 89.87438368797302
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0499.txt",
+    "output_file": "temp_catllm/transferred/src_0499_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 90.80891156196594
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0324.txt",
+    "output_file": "temp_catllm/transferred/src_0324_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 91.19357800483704
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0028.txt",
+    "output_file": "temp_catllm/transferred/src_0028_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 90.89235854148865
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0389.txt",
+    "output_file": "temp_catllm/transferred/src_0389_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 91.82746720314026
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0135.txt",
+    "output_file": "temp_catllm/transferred/src_0135_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 91.3589985370636
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0157.txt",
+    "output_file": "temp_catllm/transferred/src_0157_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 92.38832759857178
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0420.txt",
+    "output_file": "temp_catllm/transferred/src_0420_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 94.13975739479065
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0027.txt",
+    "output_file": "temp_catllm/transferred/src_0027_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 96.06678318977356
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0057.txt",
+    "output_file": "temp_catllm/transferred/src_0057_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 95.60346102714539
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0131.txt",
+    "output_file": "temp_catllm/transferred/src_0131_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 95.57454872131348
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0295.txt",
+    "output_file": "temp_catllm/transferred/src_0295_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 96.41271305084229
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0083.txt",
+    "output_file": "temp_catllm/transferred/src_0083_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 94.86585545539856
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0498.txt",
+    "output_file": "temp_catllm/transferred/src_0498_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 98.86754274368286
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0485.txt",
+    "output_file": "temp_catllm/transferred/src_0485_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 96.1715817451477
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0257.txt",
+    "output_file": "temp_catllm/transferred/src_0257_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 96.68719840049744
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0174.txt",
+    "output_file": "temp_catllm/transferred/src_0174_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 95.98620367050171
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0056.txt",
+    "output_file": "temp_catllm/transferred/src_0056_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 99.22235131263733
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0450.txt",
+    "output_file": "temp_catllm/transferred/src_0450_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 99.22211170196533
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0170.txt",
+    "output_file": "temp_catllm/transferred/src_0170_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 102.00900530815125
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0161.txt",
+    "output_file": "temp_catllm/transferred/src_0161_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 101.91258692741394
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0459.txt",
+    "output_file": "temp_catllm/transferred/src_0459_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 99.8841028213501
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0227.txt",
+    "output_file": "temp_catllm/transferred/src_0227_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 101.31069111824036
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0077.txt",
+    "output_file": "temp_catllm/transferred/src_0077_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 101.75756883621216
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0265.txt",
+    "output_file": "temp_catllm/transferred/src_0265_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 102.55849742889404
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0126.txt",
+    "output_file": "temp_catllm/transferred/src_0126_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 101.35984086990356
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0495.txt",
+    "output_file": "temp_catllm/transferred/src_0495_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 105.12126088142395
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0337.txt",
+    "output_file": "temp_catllm/transferred/src_0337_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 103.82206130027771
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0320.txt",
+    "output_file": "temp_catllm/transferred/src_0320_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 104.62329745292664
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0196.txt",
+    "output_file": "temp_catllm/transferred/src_0196_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 104.71198225021362
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0462.txt",
+    "output_file": "temp_catllm/transferred/src_0462_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 106.39698815345764
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0432.txt",
+    "output_file": "temp_catllm/transferred/src_0432_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 107.43098378181458
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0411.txt",
+    "output_file": "temp_catllm/transferred/src_0411_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 107.48303079605103
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0426.txt",
+    "output_file": "temp_catllm/transferred/src_0426_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 107.06160855293274
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0342.txt",
+    "output_file": "temp_catllm/transferred/src_0342_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 106.63057971000671
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0054.txt",
+    "output_file": "temp_catllm/transferred/src_0054_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 107.4195487499237
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0075.txt",
+    "output_file": "temp_catllm/transferred/src_0075_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 110.37967348098755
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0031.txt",
+    "output_file": "temp_catllm/transferred/src_0031_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 109.32814168930054
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0370.txt",
+    "output_file": "temp_catllm/transferred/src_0370_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 110.07462668418884
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0087.txt",
+    "output_file": "temp_catllm/transferred/src_0087_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 109.48401761054993
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0325.txt",
+    "output_file": "temp_catllm/transferred/src_0325_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 112.69366455078125
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0437.txt",
+    "output_file": "temp_catllm/transferred/src_0437_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 110.3653199672699
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0151.txt",
+    "output_file": "temp_catllm/transferred/src_0151_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 112.12802219390869
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0037.txt",
+    "output_file": "temp_catllm/transferred/src_0037_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 113.69863486289978
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0434.txt",
+    "output_file": "temp_catllm/transferred/src_0434_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 113.32511472702026
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0489.txt",
+    "output_file": "temp_catllm/transferred/src_0489_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 111.5452299118042
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0287.txt",
+    "output_file": "temp_catllm/transferred/src_0287_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 113.12439370155334
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0408.txt",
+    "output_file": "temp_catllm/transferred/src_0408_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 115.24441313743591
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0244.txt",
+    "output_file": "temp_catllm/transferred/src_0244_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 114.79585671424866
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0291.txt",
+    "output_file": "temp_catllm/transferred/src_0291_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 115.74337339401245
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0155.txt",
+    "output_file": "temp_catllm/transferred/src_0155_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 115.33064913749695
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0141.txt",
+    "output_file": "temp_catllm/transferred/src_0141_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 115.96613264083862
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0346.txt",
+    "output_file": "temp_catllm/transferred/src_0346_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 116.51686453819275
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0332.txt",
+    "output_file": "temp_catllm/transferred/src_0332_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 117.45031261444092
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0199.txt",
+    "output_file": "temp_catllm/transferred/src_0199_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 120.15836215019226
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0445.txt",
+    "output_file": "temp_catllm/transferred/src_0445_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 117.97664070129395
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0486.txt",
+    "output_file": "temp_catllm/transferred/src_0486_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 118.52974796295166
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0249.txt",
+    "output_file": "temp_catllm/transferred/src_0249_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 119.60328769683838
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0178.txt",
+    "output_file": "temp_catllm/transferred/src_0178_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 121.26724076271057
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0021.txt",
+    "output_file": "temp_catllm/transferred/src_0021_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 122.05841565132141
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0212.txt",
+    "output_file": "temp_catllm/transferred/src_0212_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 121.08645129203796
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0184.txt",
+    "output_file": "temp_catllm/transferred/src_0184_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 120.9563717842102
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0102.txt",
+    "output_file": "temp_catllm/transferred/src_0102_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 123.598388671875
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0421.txt",
+    "output_file": "temp_catllm/transferred/src_0421_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 122.15038824081421
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0177.txt",
+    "output_file": "temp_catllm/transferred/src_0177_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 125.15571975708008
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0106.txt",
+    "output_file": "temp_catllm/transferred/src_0106_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 123.47800993919373
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0273.txt",
+    "output_file": "temp_catllm/transferred/src_0273_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 124.60029721260071
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0315.txt",
+    "output_file": "temp_catllm/transferred/src_0315_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 125.22893381118774
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0496.txt",
+    "output_file": "temp_catllm/transferred/src_0496_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 125.85061407089233
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0271.txt",
+    "output_file": "temp_catllm/transferred/src_0271_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 126.01899099349976
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0045.txt",
+    "output_file": "temp_catllm/transferred/src_0045_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 126.35331988334656
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0033.txt",
+    "output_file": "temp_catllm/transferred/src_0033_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 130.20843243598938
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0484.txt",
+    "output_file": "temp_catllm/transferred/src_0484_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 127.1027340888977
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0391.txt",
+    "output_file": "temp_catllm/transferred/src_0391_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 127.23308277130127
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0393.txt",
+    "output_file": "temp_catllm/transferred/src_0393_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 128.93216156959534
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0448.txt",
+    "output_file": "temp_catllm/transferred/src_0448_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 128.81209468841553
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0159.txt",
+    "output_file": "temp_catllm/transferred/src_0159_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 134.2627730369568
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0115.txt",
+    "output_file": "temp_catllm/transferred/src_0115_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 137.9976692199707
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0323.txt",
+    "output_file": "temp_catllm/transferred/src_0323_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 132.51513981819153
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0492.txt",
+    "output_file": "temp_catllm/transferred/src_0492_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 130.4124252796173
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0443.txt",
+    "output_file": "temp_catllm/transferred/src_0443_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 131.1264843940735
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0232.txt",
+    "output_file": "temp_catllm/transferred/src_0232_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 133.80939054489136
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0407.txt",
+    "output_file": "temp_catllm/transferred/src_0407_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 131.3169128894806
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0231.txt",
+    "output_file": "temp_catllm/transferred/src_0231_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 132.98941612243652
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0308.txt",
+    "output_file": "temp_catllm/transferred/src_0308_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 135.86088299751282
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0147.txt",
+    "output_file": "temp_catllm/transferred/src_0147_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 135.44933438301086
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0275.txt",
+    "output_file": "temp_catllm/transferred/src_0275_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 134.98003768920898
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0379.txt",
+    "output_file": "temp_catllm/transferred/src_0379_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 137.0629243850708
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0003.txt",
+    "output_file": "temp_catllm/transferred/src_0003_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 135.9314513206482
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0086.txt",
+    "output_file": "temp_catllm/transferred/src_0086_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 136.93233370780945
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0288.txt",
+    "output_file": "temp_catllm/transferred/src_0288_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 139.9402551651001
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0020.txt",
+    "output_file": "temp_catllm/transferred/src_0020_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 138.63303470611572
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0382.txt",
+    "output_file": "temp_catllm/transferred/src_0382_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 138.8346586227417
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0023.txt",
+    "output_file": "temp_catllm/transferred/src_0023_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 140.14256930351257
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0201.txt",
+    "output_file": "temp_catllm/transferred/src_0201_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 139.24324464797974
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0469.txt",
+    "output_file": "temp_catllm/transferred/src_0469_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 140.2706081867218
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0039.txt",
+    "output_file": "temp_catllm/transferred/src_0039_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 140.91339468955994
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0442.txt",
+    "output_file": "temp_catllm/transferred/src_0442_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 141.14836168289185
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0401.txt",
+    "output_file": "temp_catllm/transferred/src_0401_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 141.93097758293152
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0253.txt",
+    "output_file": "temp_catllm/transferred/src_0253_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 142.60641956329346
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0319.txt",
+    "output_file": "temp_catllm/transferred/src_0319_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 143.78920102119446
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0237.txt",
+    "output_file": "temp_catllm/transferred/src_0237_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 144.4169852733612
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0338.txt",
+    "output_file": "temp_catllm/transferred/src_0338_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 146.1296558380127
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0009.txt",
+    "output_file": "temp_catllm/transferred/src_0009_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 144.3891532421112
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0294.txt",
+    "output_file": "temp_catllm/transferred/src_0294_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 146.6172821521759
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0070.txt",
+    "output_file": "temp_catllm/transferred/src_0070_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 145.011488199234
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0399.txt",
+    "output_file": "temp_catllm/transferred/src_0399_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 145.57210397720337
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0073.txt",
+    "output_file": "temp_catllm/transferred/src_0073_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 146.858060836792
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0019.txt",
+    "output_file": "temp_catllm/transferred/src_0019_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 146.32202696800232
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0427.txt",
+    "output_file": "temp_catllm/transferred/src_0427_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 149.31093430519104
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0095.txt",
+    "output_file": "temp_catllm/transferred/src_0095_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 148.25415325164795
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0251.txt",
+    "output_file": "temp_catllm/transferred/src_0251_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 148.58845233917236
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0071.txt",
+    "output_file": "temp_catllm/transferred/src_0071_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 149.10587739944458
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0104.txt",
+    "output_file": "temp_catllm/transferred/src_0104_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 149.46859097480774
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0284.txt",
+    "output_file": "temp_catllm/transferred/src_0284_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 149.6155230998993
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0012.txt",
+    "output_file": "temp_catllm/transferred/src_0012_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 152.20831394195557
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0246.txt",
+    "output_file": "temp_catllm/transferred/src_0246_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 151.15281796455383
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0219.txt",
+    "output_file": "temp_catllm/transferred/src_0219_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 151.5443606376648
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0435.txt",
+    "output_file": "temp_catllm/transferred/src_0435_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 151.65560269355774
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0371.txt",
+    "output_file": "temp_catllm/transferred/src_0371_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 153.9115607738495
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0480.txt",
+    "output_file": "temp_catllm/transferred/src_0480_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 155.37980580329895
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0339.txt",
+    "output_file": "temp_catllm/transferred/src_0339_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 153.08762407302856
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0038.txt",
+    "output_file": "temp_catllm/transferred/src_0038_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 155.64968299865723
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0461.txt",
+    "output_file": "temp_catllm/transferred/src_0461_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 154.277667760849
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0154.txt",
+    "output_file": "temp_catllm/transferred/src_0154_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 154.39025902748108
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0433.txt",
+    "output_file": "temp_catllm/transferred/src_0433_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 155.83994960784912
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0397.txt",
+    "output_file": "temp_catllm/transferred/src_0397_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 157.08540630340576
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0364.txt",
+    "output_file": "temp_catllm/transferred/src_0364_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 158.15642166137695
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0002.txt",
+    "output_file": "temp_catllm/transferred/src_0002_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 157.0671832561493
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0209.txt",
+    "output_file": "temp_catllm/transferred/src_0209_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 157.57860398292542
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0122.txt",
+    "output_file": "temp_catllm/transferred/src_0122_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 158.40878295898438
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0018.txt",
+    "output_file": "temp_catllm/transferred/src_0018_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 158.5868992805481
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0481.txt",
+    "output_file": "temp_catllm/transferred/src_0481_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 158.92486882209778
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0248.txt",
+    "output_file": "temp_catllm/transferred/src_0248_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 160.37354826927185
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0042.txt",
+    "output_file": "temp_catllm/transferred/src_0042_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 163.16174340248108
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0424.txt",
+    "output_file": "temp_catllm/transferred/src_0424_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 160.12862586975098
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0422.txt",
+    "output_file": "temp_catllm/transferred/src_0422_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 162.22843647003174
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0381.txt",
+    "output_file": "temp_catllm/transferred/src_0381_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 163.24151611328125
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0078.txt",
+    "output_file": "temp_catllm/transferred/src_0078_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 163.27653670310974
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0173.txt",
+    "output_file": "temp_catllm/transferred/src_0173_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 164.2637083530426
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0025.txt",
+    "output_file": "temp_catllm/transferred/src_0025_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 162.58552980422974
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0277.txt",
+    "output_file": "temp_catllm/transferred/src_0277_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 163.51463794708252
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0136.txt",
+    "output_file": "temp_catllm/transferred/src_0136_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 164.60519576072693
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0310.txt",
+    "output_file": "temp_catllm/transferred/src_0310_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 165.0034146308899
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0010.txt",
+    "output_file": "temp_catllm/transferred/src_0010_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 165.06229329109192
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0016.txt",
+    "output_file": "temp_catllm/transferred/src_0016_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 166.9530313014984
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0439.txt",
+    "output_file": "temp_catllm/transferred/src_0439_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 167.9491789340973
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0074.txt",
+    "output_file": "temp_catllm/transferred/src_0074_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 168.6612594127655
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0374.txt",
+    "output_file": "temp_catllm/transferred/src_0374_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 168.72575283050537
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0088.txt",
+    "output_file": "temp_catllm/transferred/src_0088_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 167.07661128044128
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0193.txt",
+    "output_file": "temp_catllm/transferred/src_0193_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 167.6800091266632
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0305.txt",
+    "output_file": "temp_catllm/transferred/src_0305_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 169.62776970863342
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0060.txt",
+    "output_file": "temp_catllm/transferred/src_0060_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 168.89214944839478
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0390.txt",
+    "output_file": "temp_catllm/transferred/src_0390_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 168.5499312877655
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0268.txt",
+    "output_file": "temp_catllm/transferred/src_0268_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 169.62988924980164
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0497.txt",
+    "output_file": "temp_catllm/transferred/src_0497_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 171.70967650413513
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0204.txt",
+    "output_file": "temp_catllm/transferred/src_0204_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 172.10360169410706
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0082.txt",
+    "output_file": "temp_catllm/transferred/src_0082_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 171.0990695953369
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0127.txt",
+    "output_file": "temp_catllm/transferred/src_0127_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 173.04737854003906
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0125.txt",
+    "output_file": "temp_catllm/transferred/src_0125_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 172.16625428199768
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0007.txt",
+    "output_file": "temp_catllm/transferred/src_0007_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 173.553218126297
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0226.txt",
+    "output_file": "temp_catllm/transferred/src_0226_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 172.8167953491211
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0096.txt",
+    "output_file": "temp_catllm/transferred/src_0096_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 180.07277131080627
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0242.txt",
+    "output_file": "temp_catllm/transferred/src_0242_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 173.66148447990417
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0214.txt",
+    "output_file": "temp_catllm/transferred/src_0214_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 174.64618110656738
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0092.txt",
+    "output_file": "temp_catllm/transferred/src_0092_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 175.5677101612091
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0444.txt",
+    "output_file": "temp_catllm/transferred/src_0444_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 176.65116715431213
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0344.txt",
+    "output_file": "temp_catllm/transferred/src_0344_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 177.31084823608398
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0114.txt",
+    "output_file": "temp_catllm/transferred/src_0114_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 176.76078414916992
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0470.txt",
+    "output_file": "temp_catllm/transferred/src_0470_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 177.08223390579224
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0465.txt",
+    "output_file": "temp_catllm/transferred/src_0465_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 176.8429913520813
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0168.txt",
+    "output_file": "temp_catllm/transferred/src_0168_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 179.56311559677124
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0200.txt",
+    "output_file": "temp_catllm/transferred/src_0200_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 178.93525910377502
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0343.txt",
+    "output_file": "temp_catllm/transferred/src_0343_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 179.15591621398926
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0340.txt",
+    "output_file": "temp_catllm/transferred/src_0340_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 185.5836043357849
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0206.txt",
+    "output_file": "temp_catllm/transferred/src_0206_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 181.50222992897034
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0000.txt",
+    "output_file": "temp_catllm/transferred/src_0000_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 181.02443146705627
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0162.txt",
+    "output_file": "temp_catllm/transferred/src_0162_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 181.30390119552612
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0133.txt",
+    "output_file": "temp_catllm/transferred/src_0133_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 181.56352996826172
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0198.txt",
+    "output_file": "temp_catllm/transferred/src_0198_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 181.36235690116882
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0299.txt",
+    "output_file": "temp_catllm/transferred/src_0299_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 184.67262530326843
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0352.txt",
+    "output_file": "temp_catllm/transferred/src_0352_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 184.4875409603119
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0321.txt",
+    "output_file": "temp_catllm/transferred/src_0321_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 184.8804132938385
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0146.txt",
+    "output_file": "temp_catllm/transferred/src_0146_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 185.79311418533325
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0355.txt",
+    "output_file": "temp_catllm/transferred/src_0355_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 185.96570944786072
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0167.txt",
+    "output_file": "temp_catllm/transferred/src_0167_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 186.37998461723328
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0356.txt",
+    "output_file": "temp_catllm/transferred/src_0356_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 186.33237600326538
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0436.txt",
+    "output_file": "temp_catllm/transferred/src_0436_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 186.52415776252747
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0228.txt",
+    "output_file": "temp_catllm/transferred/src_0228_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 187.4814488887787
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0137.txt",
+    "output_file": "temp_catllm/transferred/src_0137_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 189.28125596046448
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0179.txt",
+    "output_file": "temp_catllm/transferred/src_0179_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 189.60881781578064
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0108.txt",
+    "output_file": "temp_catllm/transferred/src_0108_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 191.10796284675598
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0361.txt",
+    "output_file": "temp_catllm/transferred/src_0361_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 190.83596396446228
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0412.txt",
+    "output_file": "temp_catllm/transferred/src_0412_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 190.79591488838196
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0142.txt",
+    "output_file": "temp_catllm/transferred/src_0142_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 190.847501039505
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0402.txt",
+    "output_file": "temp_catllm/transferred/src_0402_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 191.9049792289734
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0366.txt",
+    "output_file": "temp_catllm/transferred/src_0366_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 192.1177773475647
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0451.txt",
+    "output_file": "temp_catllm/transferred/src_0451_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 192.39209270477295
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0130.txt",
+    "output_file": "temp_catllm/transferred/src_0130_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 192.53163743019104
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0220.txt",
+    "output_file": "temp_catllm/transferred/src_0220_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 194.23667907714844
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0169.txt",
+    "output_file": "temp_catllm/transferred/src_0169_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 194.7459111213684
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0215.txt",
+    "output_file": "temp_catllm/transferred/src_0215_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 195.08949422836304
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0440.txt",
+    "output_file": "temp_catllm/transferred/src_0440_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 195.37860822677612
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0396.txt",
+    "output_file": "temp_catllm/transferred/src_0396_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 195.17882633209229
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0128.txt",
+    "output_file": "temp_catllm/transferred/src_0128_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 197.2679672241211
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0477.txt",
+    "output_file": "temp_catllm/transferred/src_0477_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 196.76481223106384
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0026.txt",
+    "output_file": "temp_catllm/transferred/src_0026_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 197.58042645454407
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0431.txt",
+    "output_file": "temp_catllm/transferred/src_0431_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 196.71589517593384
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0378.txt",
+    "output_file": "temp_catllm/transferred/src_0378_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 196.22246289253235
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0395.txt",
+    "output_file": "temp_catllm/transferred/src_0395_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 199.19875764846802
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0438.txt",
+    "output_file": "temp_catllm/transferred/src_0438_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 199.07143664360046
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0164.txt",
+    "output_file": "temp_catllm/transferred/src_0164_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 202.07843708992004
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0091.txt",
+    "output_file": "temp_catllm/transferred/src_0091_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 200.20456457138062
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0197.txt",
+    "output_file": "temp_catllm/transferred/src_0197_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 201.94423270225525
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0207.txt",
+    "output_file": "temp_catllm/transferred/src_0207_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 200.20794653892517
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0046.txt",
+    "output_file": "temp_catllm/transferred/src_0046_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 202.74373936653137
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0239.txt",
+    "output_file": "temp_catllm/transferred/src_0239_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 201.64965844154358
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0032.txt",
+    "output_file": "temp_catllm/transferred/src_0032_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 202.33565950393677
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0367.txt",
+    "output_file": "temp_catllm/transferred/src_0367_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 202.21849703788757
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0263.txt",
+    "output_file": "temp_catllm/transferred/src_0263_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 203.1473777294159
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0024.txt",
+    "output_file": "temp_catllm/transferred/src_0024_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 202.60354709625244
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0281.txt",
+    "output_file": "temp_catllm/transferred/src_0281_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 207.92212891578674
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0001.txt",
+    "output_file": "temp_catllm/transferred/src_0001_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 205.93060660362244
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0234.txt",
+    "output_file": "temp_catllm/transferred/src_0234_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 205.53876209259033
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0233.txt",
+    "output_file": "temp_catllm/transferred/src_0233_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 207.58216738700867
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0368.txt",
+    "output_file": "temp_catllm/transferred/src_0368_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 208.34626650810242
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0195.txt",
+    "output_file": "temp_catllm/transferred/src_0195_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 206.95106601715088
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0476.txt",
+    "output_file": "temp_catllm/transferred/src_0476_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 206.07531452178955
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0235.txt",
+    "output_file": "temp_catllm/transferred/src_0235_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 207.91070365905762
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0309.txt",
+    "output_file": "temp_catllm/transferred/src_0309_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 207.60522055625916
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0202.txt",
+    "output_file": "temp_catllm/transferred/src_0202_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 205.11119294166565
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0446.txt",
+    "output_file": "temp_catllm/transferred/src_0446_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 210.01683115959167
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0452.txt",
+    "output_file": "temp_catllm/transferred/src_0452_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 210.35410332679749
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0317.txt",
+    "output_file": "temp_catllm/transferred/src_0317_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 210.36963629722595
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0138.txt",
+    "output_file": "temp_catllm/transferred/src_0138_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 212.18468260765076
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0373.txt",
+    "output_file": "temp_catllm/transferred/src_0373_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 210.84600234031677
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0316.txt",
+    "output_file": "temp_catllm/transferred/src_0316_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 211.6129171848297
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0354.txt",
+    "output_file": "temp_catllm/transferred/src_0354_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 211.70299243927002
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0218.txt",
+    "output_file": "temp_catllm/transferred/src_0218_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 211.5908977985382
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0172.txt",
+    "output_file": "temp_catllm/transferred/src_0172_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 213.43467450141907
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0313.txt",
+    "output_file": "temp_catllm/transferred/src_0313_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 212.91894388198853
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0311.txt",
+    "output_file": "temp_catllm/transferred/src_0311_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 213.97739028930664
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0148.txt",
+    "output_file": "temp_catllm/transferred/src_0148_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 215.16365933418274
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0365.txt",
+    "output_file": "temp_catllm/transferred/src_0365_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 215.64418387413025
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0358.txt",
+    "output_file": "temp_catllm/transferred/src_0358_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 215.5742998123169
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0351.txt",
+    "output_file": "temp_catllm/transferred/src_0351_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 217.6095266342163
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0415.txt",
+    "output_file": "temp_catllm/transferred/src_0415_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 217.97377371788025
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0229.txt",
+    "output_file": "temp_catllm/transferred/src_0229_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 217.51926946640015
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0410.txt",
+    "output_file": "temp_catllm/transferred/src_0410_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 218.6769254207611
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0145.txt",
+    "output_file": "temp_catllm/transferred/src_0145_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 217.71213555335999
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0049.txt",
+    "output_file": "temp_catllm/transferred/src_0049_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 217.67480850219727
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0359.txt",
+    "output_file": "temp_catllm/transferred/src_0359_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 218.58841943740845
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0403.txt",
+    "output_file": "temp_catllm/transferred/src_0403_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 219.9298655986786
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0191.txt",
+    "output_file": "temp_catllm/transferred/src_0191_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 220.15019345283508
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0186.txt",
+    "output_file": "temp_catllm/transferred/src_0186_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 221.24757742881775
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0326.txt",
+    "output_file": "temp_catllm/transferred/src_0326_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 223.35932898521423
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0336.txt",
+    "output_file": "temp_catllm/transferred/src_0336_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 222.72590017318726
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0341.txt",
+    "output_file": "temp_catllm/transferred/src_0341_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 222.77102780342102
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0163.txt",
+    "output_file": "temp_catllm/transferred/src_0163_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 222.86402893066406
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0409.txt",
+    "output_file": "temp_catllm/transferred/src_0409_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 223.10299134254456
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0208.txt",
+    "output_file": "temp_catllm/transferred/src_0208_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 224.2964746952057
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0278.txt",
+    "output_file": "temp_catllm/transferred/src_0278_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 223.51685118675232
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0306.txt",
+    "output_file": "temp_catllm/transferred/src_0306_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 224.3053014278412
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0014.txt",
+    "output_file": "temp_catllm/transferred/src_0014_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 225.6457028388977
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0468.txt",
+    "output_file": "temp_catllm/transferred/src_0468_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 226.3054883480072
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0171.txt",
+    "output_file": "temp_catllm/transferred/src_0171_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 227.0586540699005
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0416.txt",
+    "output_file": "temp_catllm/transferred/src_0416_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 226.78564834594727
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0282.txt",
+    "output_file": "temp_catllm/transferred/src_0282_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 229.1916241645813
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0494.txt",
+    "output_file": "temp_catllm/transferred/src_0494_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 229.6038429737091
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0149.txt",
+    "output_file": "temp_catllm/transferred/src_0149_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 228.35797572135925
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0113.txt",
+    "output_file": "temp_catllm/transferred/src_0113_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 227.32575154304504
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0166.txt",
+    "output_file": "temp_catllm/transferred/src_0166_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 229.31634974479675
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0388.txt",
+    "output_file": "temp_catllm/transferred/src_0388_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 230.53396773338318
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0132.txt",
+    "output_file": "temp_catllm/transferred/src_0132_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 231.45418691635132
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0394.txt",
+    "output_file": "temp_catllm/transferred/src_0394_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 231.41881346702576
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0245.txt",
+    "output_file": "temp_catllm/transferred/src_0245_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 230.64742755889893
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0417.txt",
+    "output_file": "temp_catllm/transferred/src_0417_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 232.60273838043213
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0298.txt",
+    "output_file": "temp_catllm/transferred/src_0298_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 232.69762182235718
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0413.txt",
+    "output_file": "temp_catllm/transferred/src_0413_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 232.75435543060303
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0329.txt",
+    "output_file": "temp_catllm/transferred/src_0329_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 234.44846296310425
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0380.txt",
+    "output_file": "temp_catllm/transferred/src_0380_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 233.99442982673645
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0069.txt",
+    "output_file": "temp_catllm/transferred/src_0069_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 235.98396158218384
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0112.txt",
+    "output_file": "temp_catllm/transferred/src_0112_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 236.29337906837463
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0322.txt",
+    "output_file": "temp_catllm/transferred/src_0322_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 234.6357705593109
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0267.txt",
+    "output_file": "temp_catllm/transferred/src_0267_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 236.48285746574402
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0285.txt",
+    "output_file": "temp_catllm/transferred/src_0285_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 238.1795778274536
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0165.txt",
+    "output_file": "temp_catllm/transferred/src_0165_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 237.84736800193787
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0188.txt",
+    "output_file": "temp_catllm/transferred/src_0188_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 238.62185215950012
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0061.txt",
+    "output_file": "temp_catllm/transferred/src_0061_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 238.34765195846558
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0463.txt",
+    "output_file": "temp_catllm/transferred/src_0463_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 238.1198661327362
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0303.txt",
+    "output_file": "temp_catllm/transferred/src_0303_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 239.19665598869324
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0483.txt",
+    "output_file": "temp_catllm/transferred/src_0483_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 239.70171236991882
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0190.txt",
+    "output_file": "temp_catllm/transferred/src_0190_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 241.9936158657074
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0156.txt",
+    "output_file": "temp_catllm/transferred/src_0156_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 241.20464968681335
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0360.txt",
+    "output_file": "temp_catllm/transferred/src_0360_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 241.55841636657715
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0269.txt",
+    "output_file": "temp_catllm/transferred/src_0269_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 242.62827324867249
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0474.txt",
+    "output_file": "temp_catllm/transferred/src_0474_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 243.99639773368835
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0488.txt",
+    "output_file": "temp_catllm/transferred/src_0488_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 243.39211058616638
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0224.txt",
+    "output_file": "temp_catllm/transferred/src_0224_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 243.74344563484192
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0241.txt",
+    "output_file": "temp_catllm/transferred/src_0241_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 243.69956278800964
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0400.txt",
+    "output_file": "temp_catllm/transferred/src_0400_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 244.88239979743958
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0238.txt",
+    "output_file": "temp_catllm/transferred/src_0238_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 246.32232069969177
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0152.txt",
+    "output_file": "temp_catllm/transferred/src_0152_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 245.51066088676453
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0398.txt",
+    "output_file": "temp_catllm/transferred/src_0398_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 246.89965271949768
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0300.txt",
+    "output_file": "temp_catllm/transferred/src_0300_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 246.82033443450928
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0454.txt",
+    "output_file": "temp_catllm/transferred/src_0454_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 248.3505334854126
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0044.txt",
+    "output_file": "temp_catllm/transferred/src_0044_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 249.78886151313782
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0205.txt",
+    "output_file": "temp_catllm/transferred/src_0205_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 248.16472220420837
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0272.txt",
+    "output_file": "temp_catllm/transferred/src_0272_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 249.2749810218811
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0243.txt",
+    "output_file": "temp_catllm/transferred/src_0243_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 247.77940487861633
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0385.txt",
+    "output_file": "temp_catllm/transferred/src_0385_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 249.32006883621216
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0150.txt",
+    "output_file": "temp_catllm/transferred/src_0150_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 251.1352882385254
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0030.txt",
+    "output_file": "temp_catllm/transferred/src_0030_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 250.93351364135742
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0406.txt",
+    "output_file": "temp_catllm/transferred/src_0406_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 251.48563718795776
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0051.txt",
+    "output_file": "temp_catllm/transferred/src_0051_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 252.03349828720093
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0279.txt",
+    "output_file": "temp_catllm/transferred/src_0279_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 253.0388457775116
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0286.txt",
+    "output_file": "temp_catllm/transferred/src_0286_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 253.30526757240295
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0185.txt",
+    "output_file": "temp_catllm/transferred/src_0185_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 252.94584465026855
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0289.txt",
+    "output_file": "temp_catllm/transferred/src_0289_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 252.88026070594788
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0362.txt",
+    "output_file": "temp_catllm/transferred/src_0362_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 255.05381560325623
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0013.txt",
+    "output_file": "temp_catllm/transferred/src_0013_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 254.25848865509033
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0094.txt",
+    "output_file": "temp_catllm/transferred/src_0094_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 255.23362684249878
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0475.txt",
+    "output_file": "temp_catllm/transferred/src_0475_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 256.7921917438507
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0230.txt",
+    "output_file": "temp_catllm/transferred/src_0230_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 256.79003620147705
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0471.txt",
+    "output_file": "temp_catllm/transferred/src_0471_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 255.7338764667511
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0216.txt",
+    "output_file": "temp_catllm/transferred/src_0216_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 257.2407021522522
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0349.txt",
+    "output_file": "temp_catllm/transferred/src_0349_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 257.027086019516
+  },
+  {
+    "input_file": "temp_catllm/style_removed/src_0210.txt",
+    "output_file": "temp_catllm/transferred/src_0210_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 258.7833013534546
+  }
+]

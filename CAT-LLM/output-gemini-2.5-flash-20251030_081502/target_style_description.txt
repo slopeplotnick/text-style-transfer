@@ -1,0 +1,18 @@
+This academic article follows the style of Information Processing & Management journal, characterized by:
+
+From the sentence perspective:
+- The average sentence length is 24.9 words, indicating balanced complexity suitable for academic discourse.
+- Sentence length distribution shows a balanced mix of sentence lengths for varied rhythm and comprehensive coverage.
+- The text employs approximately 2 instances of passive voice per article on average, demonstrating moderate use of passive voice to maintain scholarly objectivity.
+
+From the vocabulary perspective:
+- The article uses 1 academic connectors on average (e.g., however, moreover, furthermore, therefore, consequently, specifically), indicating basic logical structure.
+- Academic verbs appear 2 times on average (e.g., demonstrate, indicate, reveal, propose, investigate, analyze, evaluate), showing moderate use of academic terminology.
+- Academic adjectives occur 2 times on average (e.g., significant, comprehensive, robust, novel, effective, systematic), reflecting restrained use of qualitative descriptors.
+
+From the structural perspective:
+- The article follows standard academic structure with varied structural organization across articles.
+- The overall tone is objective, formal, and research-oriented, consistently avoiding colloquial expressions and maintaining scholarly rigor throughout.
+- Citations and references are integrated systematically to support claims and arguments, following proper academic citation conventions.
+- Technical terminology is used precisely and consistently, with clear definitions provided for domain-specific concepts.
+- Arguments are evidence-based, supported by empirical data, theoretical frameworks, or prior research findings.

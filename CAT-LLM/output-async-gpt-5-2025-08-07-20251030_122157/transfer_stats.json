@@ -1,0 +1,82 @@
+[
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Attention-guided residual shrinkage with gated recurrent unit for human activity recognition_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 52.06618046760559
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/DLGTrust Graph neural network-based trust evaluation using dynamic line graph_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 94.12749648094177
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Knowledge precedence networks Mining progression patterns of scientific discoveries beyond prerequis_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 46.467243671417236
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Unraveling urban problem patterns in Zhejiang Evolutionary trajectories and driving factors based on_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 75.97875785827637
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Surpassing probabilistic based community detection in flow-based mobility networks_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 37.27605581283569
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/MIMOSA A unified multi-view multi-order contrastive learning framework for bundle recommendation_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 83.89997887611389
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Advancing cross-domain emergency classification with multi-view adversarial learning_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 119.90384840965271
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/A novel automated policy text evaluation framework integrating PMC into large language models_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 104.42558717727661
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Multi-domain sequential recommendation via multi-sequence and multi-task learning_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 176.58042001724243
+  },
+  {
+    "input_file": "./output-async-gpt-5-2025-08-07-20251030_122157/style_removed/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_style_removed.txt",
+    "output_file": "./output-async-gpt-5-2025-08-07-20251030_122157/transferred/Unlocking knowledge-sharing live streaming e-commerce An LLM-empowered analytics framework for book_xpath_integrated_transferred.txt",
+    "success": true,
+    "total_paragraphs": 1,
+    "successful_paragraphs": 1,
+    "processing_time": 57.51242542266846
+  }
+]
