@@ -1,0 +1,13 @@
+{
+  "ablation_name": "dt_sentence",
+  "total_files": 95,
+  "successful": 95,
+  "failed": 0,
+  "total_time_seconds": 669.7553479671478,
+  "config": {
+    "CONTENT_ENCODER_MODEL": "allenai/specter2_base",
+    "STYLE_ENCODER_MODEL": "AnnaWegmann/Style-Embedding",
+    "CHUNK_SIZE": 1,
+    "ENABLE_STYLE_RERANKING": true
+  }
+}

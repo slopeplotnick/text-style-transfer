@@ -1,0 +1,13 @@
+{
+  "ablation_name": "dt_no_rerank",
+  "total_files": 440,
+  "successful": 440,
+  "failed": 0,
+  "total_time_seconds": 1369.0839717388153,
+  "config": {
+    "CONTENT_ENCODER_MODEL": "allenai/specter2_base",
+    "STYLE_ENCODER_MODEL": "AnnaWegmann/Style-Embedding",
+    "CHUNK_SIZE": 3,
+    "ENABLE_STYLE_RERANKING": false
+  }
+}

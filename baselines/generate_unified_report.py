@@ -1,5 +1,6 @@
 """
 Generate unified evaluation report including all models (CAT-LLM, ZeroStylus, DeepTransfer, Zero-Shot, Few-Shot)
+and ablation experiments (DT-NoSPECTER, DT-Sentence, DT-NoRerank)
 """
 import os
 import sys
@@ -18,12 +19,18 @@ def load_all_results():
     all_results = {}
 
     # Mapping of result files to model names
+    # Including main models and ablation experiments
     result_files = {
+        # Main models
         'cat-llm_results.json': 'CAT-LLM',
         'zerostylus_results.json': 'ZeroStylus',
         'deeptransfer_results.json': 'DeepTransfer',
         'zero_shot_results.json': 'Zero-Shot',
-        'few_shot_results.json': 'Few-Shot'
+        'few_shot_results.json': 'Few-Shot',
+        # Ablation experiments (DeepTransfer variants) - 使用下划线
+        'dt_nospecter_results.json': 'DT-NoSPECTER',
+        'dt_sentence_results.json': 'DT-Sentence',
+        'dt_norerank_results.json': 'DT-NoRerank',
     }
 
     for filename, model_name in result_files.items():

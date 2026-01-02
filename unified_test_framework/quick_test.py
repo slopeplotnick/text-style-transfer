@@ -16,7 +16,7 @@ def setup_api_config():
     """Setup API configuration for LLM calls"""
     # Set environment variables for API access
     os.environ['OPENAI_API_BASE'] = 'https://newapi.deepwisdom.ai/v1'
-    os.environ['OPENAI_API_KEY'] = os.environ.get('OPENAI_API_KEY', 'YOUR_API_KEY_HERE')
+    os.environ['OPENAI_API_KEY'] = 'sk-YF5cLsbs1SI47T8ilS4BCIU7wYo7l2UN43dqONwb0WbvyXxA'
     os.environ['OPENAI_MODEL'] = 'gpt-4o'
 
     print("API Configuration:")

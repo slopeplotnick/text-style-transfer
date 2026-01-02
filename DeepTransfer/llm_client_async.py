@@ -7,6 +7,13 @@ import aiohttp
 from typing import Optional
 
 
+def clean_llm_output(text: str) -> str:
+    """清理 LLM 输出，移除空行，将多行合并为单行"""
+    lines = text.split('\n')
+    non_empty_lines = [line.strip() for line in lines if line.strip()]
+    return ' '.join(non_empty_lines)
+
+
 class AsyncLLMClient:
     """
     异步 LLM 客户端，支持并发 API 调用
@@ -16,7 +23,7 @@ class AsyncLLMClient:
         api_url: str,
         api_key: str,
         model: str,
-        max_concurrent: int = 10,
+        max_concurrent: int = 20,
         timeout: int = 120,
         max_retries: int = 3
     ):
@@ -83,7 +90,8 @@ class AsyncLLMClient:
                     ) as response:
                         if response.status == 200:
                             result = await response.json()
-                            return result['choices'][0]['message']['content']
+                            raw_content = result['choices'][0]['message']['content']
+                            return clean_llm_output(raw_content)
                         else:
                             text = await response.text()
                             raise Exception(f"API request failed with status {response.status}: {text}")

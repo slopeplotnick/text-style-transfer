@@ -29,7 +29,7 @@ class Config:
                                    # Higher values = more emphasis on style matching
 
     # LLM Configuration
-    API_URL = os.getenv("OPENAI_API_URL", "https://newapi.deepwisdom.ai/v1/chat/completions")
+    API_URL = os.getenv("OPENAI_API_URL", "https://api.chatanywhere.tech/v1/chat/completions")
     API_KEY = os.getenv("OPENAI_API_KEY", "")
     MODEL_NAME = "gpt-4o"
     

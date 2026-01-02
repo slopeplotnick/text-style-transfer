@@ -22,7 +22,7 @@ class AsyncDeepTransferPipeline:
         config=Config,
         use_journal_filter=None,
         use_section_filter=None,
-        max_concurrent: int = 10
+        max_concurrent: int = 20
     ):
         """
         初始化异步 Pipeline

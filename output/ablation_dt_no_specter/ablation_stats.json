@@ -1,0 +1,13 @@
+{
+  "ablation_name": "dt_no_specter",
+  "total_files": 500,
+  "successful": 500,
+  "failed": 0,
+  "total_time_seconds": 1990.199198961258,
+  "config": {
+    "CONTENT_ENCODER_MODEL": "sentence-transformers/all-mpnet-base-v2",
+    "STYLE_ENCODER_MODEL": "AnnaWegmann/Style-Embedding",
+    "CHUNK_SIZE": 3,
+    "ENABLE_STYLE_RERANKING": true
+  }
+}

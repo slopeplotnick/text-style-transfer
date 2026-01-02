@@ -299,8 +299,8 @@ def main():
     parser.add_argument(
         '--api-key',
         type=str,
-        default="",
-        help='API key (required, set via --api-key or OPENAI_API_KEY env var)'
+        default="sk-YF5cLsbs1SI47T8ilS4BCIU7wYo7l2UN43dqONwb0WbvyXxA",
+        help='API key'
     )
 
     parser.add_argument(

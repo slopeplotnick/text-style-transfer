@@ -2,6 +2,14 @@ import requests
 import json
 from typing import Optional
 
+
+def clean_llm_output(text: str) -> str:
+    """清理 LLM 输出，移除空行，将多行合并为单行"""
+    lines = text.split('\n')
+    non_empty_lines = [line.strip() for line in lines if line.strip()]
+    return ' '.join(non_empty_lines)
+
+
 class LLMClient:
     """
     Simple client for OpenAI-compatible API.
@@ -27,7 +35,8 @@ class LLMClient:
             response = requests.post(self.api_url, headers=headers, json=data)
             response.raise_for_status()
             result = response.json()
-            return result['choices'][0]['message']['content']
+            raw_content = result['choices'][0]['message']['content']
+            return clean_llm_output(raw_content)
         except Exception as e:
             print(f"LLM Call Error: {e}")
             return f"[Error generating text: {e}]"

@@ -113,11 +113,12 @@ async def batch_process_async(
     source_dir: str,
     output_dir: str,
     max_samples: int = None,
-    max_concurrent: int = 10,
+    max_concurrent: int = 20,
     use_journal_filter: bool = False,
     use_section_filter: bool = False,
     pattern: str = "src_*.txt",
-    batch_size: int = 20  # 新增：每批处理的文件数
+    batch_size: int = 20,  # 新增：每批处理的文件数
+    resume: bool = True  # 新增：是否启用断点续传
 ) -> List[Dict]:
     """
     异步批处理多个文件
@@ -131,6 +132,7 @@ async def batch_process_async(
         use_section_filter: 是否使用章节过滤
         pattern: 文件匹配模式
         batch_size: 每批处理的文件数（避免任务爆炸）
+        resume: 是否启用断点续传（跳过已处理的文件）
 
     Returns:
         处理统计信息列表
@@ -145,6 +147,7 @@ async def batch_process_async(
     print(f"  Batch size: {batch_size} files/batch")
     print(f"  Journal filter: {use_journal_filter}")
     print(f"  Section filter: {use_section_filter}")
+    print(f"  Resume mode: {resume}")
 
     pipeline = AsyncDeepTransferPipeline(
         use_journal_filter=use_journal_filter,
@@ -165,7 +168,31 @@ async def batch_process_async(
         print(f"\nError: No files matching '{pattern}' found in {source_dir}")
         return []
 
-    print(f"\nFound {len(source_files)} files to process")
+    # 断点续传：检查已处理的文件
+    skipped_count = 0
+    if resume:
+        files_to_process = []
+        for source_file in source_files:
+            # 检查对应的输出文件是否存在（ref_xxxx.txt 或 transferred_xxxx.txt）
+            base_name = source_file.stem.replace('src_', '')
+            ref_output = os.path.join(output_dir, f"ref_{base_name}.txt")
+            transferred_output = os.path.join(output_dir, f"transferred_{base_name}.txt")
+
+            if os.path.exists(ref_output) or os.path.exists(transferred_output):
+                skipped_count += 1
+            else:
+                files_to_process.append(source_file)
+
+        if skipped_count > 0:
+            print(f"\n[Resume] Found {skipped_count} already processed files, skipping...")
+
+        source_files = files_to_process
+
+    if not source_files:
+        print(f"\nAll files already processed. Nothing to do.")
+        return []
+
+    print(f"\nFound {len(source_files)} files to process (skipped: {skipped_count})")
     print(f"Output directory: {output_dir}")
     print(f"\nStarting async batch processing...")
     print("=" * 80)
@@ -267,6 +294,11 @@ def main():
         default=20,
         help="Number of files to process per batch (default: 20, prevents task explosion)"
     )
+    parser.add_argument(
+        "--no-resume",
+        action="store_true",
+        help="Disable resume mode (process all files even if output exists)"
+    )
 
     args = parser.parse_args()
 
@@ -315,7 +347,8 @@ def main():
             use_journal_filter=args.use_journal_filter,
             use_section_filter=args.use_section_filter,
             pattern=args.pattern,
-            batch_size=args.batch_size
+            batch_size=args.batch_size,
+            resume=not args.no_resume
         )
     )
 
